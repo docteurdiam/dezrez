@@ -25,12 +25,12 @@ class Subscriber
   def pull(download_directory)
     response = Subscriber.get(SEARCH_URL, :query => {:sessionGUID => @session_guid})
     properties = PropertyParser.new.parse_search_results(response.body)
-    Audit.debug "Parsed #{properties.size} search results from the DezRez API."
+    Audit.info "Parsed #{properties.size} search results from the DezRez API."
     lettings = properties.map do |property|
       response = Subscriber.get(DETAILS_URL, :query => {:sessionGUID => @session_guid, :pid => property.id})
       PropertyParser.new.parse_listing(download_directory, property, response.body)
     end
-    Audit.debug "Parsed #{lettings.size} individual lettings from the DezRez API."
+    Audit.info "Parsed #{lettings.size} individual lettings from the DezRez API."
     lettings
   end
 

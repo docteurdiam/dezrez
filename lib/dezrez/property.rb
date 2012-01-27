@@ -52,7 +52,10 @@ class Property
       when 49,50,52,68 then "Maisonette"
       when 35,36,37,38,39 then "Chalet"
       when 40,41,42 then "Barn Conversion"
-      when 60,70 then "Business/COmmercial"
+      when 60,70 then "Business/Commercial"
+      else
+        Audit.debug("No property type could be found with ID #{property_type}")
+        nil
     end
   end
 
@@ -62,7 +65,7 @@ class Property
       nil
     else
       case codes[0].to_i
-        when 1 then "St. Johns Wood"
+        when 1 then "St Johns Wood"
         when 2 then "Maida Vale"
         when 3 then "Little Venice"
         when 4 then "West Hampstead"
@@ -72,6 +75,9 @@ class Property
         when 8 then "Queens Park"
         when 9 then "Notting Hill"
         when 10 then "Bayswater"
+        else
+          Audit.debug("No location could be found with ID #{codes[0].to_i}")
+          nil
       end
     end
   end

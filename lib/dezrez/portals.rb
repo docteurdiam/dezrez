@@ -8,9 +8,9 @@ class Portals
     properties = Subscriber.new.pull(@config[:image_directory])
     branch_id = @config[:portals][:zoopla][:branch_id]
     feed = Feed.build(properties, branch_id)
-    Audit.debug "[#{DateTime.now.strftime("%H:%M:%S")}] Created the feed #{feed.filename}."
+    Audit.info "Created the feed #{feed.filename}."
     zipfile_name = self.create_zip_archive(feed, properties)
-    Audit.debug "[#{DateTime.now.strftime("%H:%M:%S")}] Created the zip archive #{zipfile_name}."
+    Audit.info "Created the zip archive #{zipfile_name}."
     transfer(zipfile_name)
   end
 

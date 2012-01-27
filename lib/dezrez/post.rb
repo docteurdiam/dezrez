@@ -33,7 +33,7 @@ class Post < ActiveRecord::Base
           attachment.post_title = File.basename(photo.filename)
           attachment.post_status = 'inherit'
           attachment.post_mime_type = 'image/jpeg'
-          attachment.guid = photo.remote_url + "&width=500"
+          attachment.guid = photo.remote_url + "&width=300"
           attachment.create_photo_meta(File.basename(photo.filename))
           attachment.save!
         end
@@ -60,6 +60,9 @@ class Post < ActiveRecord::Base
   end
 
   def associate_taxonomy(key, category)
+    return if key.blank?
+    Audit.debug("Associating key #{key} in taxonomy #{category}")
+    key = Property.locate(key) if category == "property_location"
     sql = %{
               SELECT term_taxonomy_id
               FROM wp_terms
@@ -70,6 +73,8 @@ class Post < ActiveRecord::Base
     if taxonomy_id
       sql = "INSERT INTO wp_term_relationships (object_id, term_taxonomy_id) VALUES (#{self.id}, #{taxonomy_id})"
       self.connection.execute(sql)
+    else
+      Audit.debug("No term could be found in Wordpress for #{key}")
     end
   end
 
