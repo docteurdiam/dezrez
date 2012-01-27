@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="968301" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="6/8/2007 00:00:00" category="1" featured="false" price="&#163;527,500" priceVal="527500" POA="false" currency="GBP" rentalperiod="1" updated="24/11/2011 12:16:32" dateInstructed="" dateSTC="" bedrooms="5" bathrooms="3" instructionLevel="0" receptions="3" leaseType="6" garages="0" gardens="1" otherrooms="3" specials="0" parkingSpaces="2" metropix="0" propertyType="61" period="Not Applicable" brochureApproved="false" hits="3731" latitude="51.6415656707" longitude="-0.1848153991" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="c68d8f3f-fbb7-4f26-b60d-923248bc7d29">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="50" eer_p="60" eir_c="50" eir_p="60" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">1</num>
+        <sa1 display="true">Dale Close </sa1>
+        <sa2 display="true">New Barnet </sa2>
+        <town display="true">BARNET</town>
+        <city display="true"></city>
+        <county display="true">Hertfordshire</county>
+        <country display="true"></country>
+        <postcode>EN5 1BH</postcode>
+        <locationcodes>(M1)(TC)(RB) </locationcodes>
+        <useAddress>Dale Close, New Barnet, BARNET, Hertfordshire</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 14:55:03" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 14:55:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 14:55:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 14:55:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 14:55:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 14:55:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="28/10/2011 14:55:04" category="maps" categoryID="4" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=968301&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=50&amp;Potential=60&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="9" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=50&amp;Potential=60&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00968301&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Listed Grade II, being of architectural interest, St Stephen&#8217;s House is an exceptionally well presented family home. Built&lt;br/&gt;in 1738 for Leonard Kidd, an inn keeper. The property is constructed of classical Georgian elevations in mellow red brick under a high pitched tiled roof St Stephen&#8217;s House is&lt;br/&gt;very handsome. Situated on a mature plot of around 0.2 acre this fine home provides light and spacious reception rooms with comfortable bedroom accommodation at first and second floor. Of particular note is the oak panelled reception hall with Tudor style stone fireplace, the high ceilings with detailed cornicing,&lt;br/&gt;the intricately carved fireplace in the drawing room, and large sash windows throughout. The interior design blends period features with today&#8217;s modern living requirements.&lt;br/&gt; </description>
+        <description id="2" summary="false">Reception hall&lt;br/&gt;Drawing room&lt;br/&gt;Dining room Study&lt;br/&gt;Kitchen/breakfast room&lt;br/&gt;Utility Cloakroom&lt;br/&gt;Cellar&lt;br/&gt;Master bedroom suite with bathroom and dressing room&lt;br/&gt;Five further bedrooms (one en-suite bathroom)&lt;br/&gt;Family bathroom&lt;br/&gt;Parking&lt;br/&gt;Mature gardens and grounds&lt;br/&gt;About 0.2 acres.&lt;br/&gt;</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false">Occupying a prominent position situated immediately opposite the old Parish Church of St. Stephen, St Stephen&#8217;s House is conveniently located to the south of the city centre of St Albans providing easy access to the motorway network. There is a good range of local shops within &#188; mile including Waitrose Supermarket whilst a more comprehensive range of facilities&lt;br/&gt;can be found in the City Centre including the Thameslink station which provides an express service to Kings Cross, the city and&lt;br/&gt;beyond. The property is situated close to Verulamium Park, which is a vast open space with a small wood and lake, which leads to St Michael&#8217;s Village and St Albans Abbey. St Albans continues to be a most enthusiastically sought after location in which to live offering fast communication links to centres of commerce, renowned schooling for all ages and a&lt;br/&gt;comprehensive range of social and recreational amenities all within an historic setting.&lt;br/&gt;</description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Basement">
+            <feature type="kitchen">
+              <heading>Utility/Basement Room</heading>
+              <description />
+            </feature>
+          </area>
+          <area title=" Ground Floor">
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description />
+            </feature>
+            <feature type="Family Room">
+              <heading>Family Room</heading>
+              <description />
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description />
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen/Breakfast Room</heading>
+              <description />
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom 1</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Ensuite Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Main Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Ensutie Shower Room</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 4</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 5</heading>
+              <description />
+            </feature>
+          </area>
+          <area title="  Grounds">
+            <feature type="garden">
+              <heading>Enclosed Garden</heading>
+              <description />
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

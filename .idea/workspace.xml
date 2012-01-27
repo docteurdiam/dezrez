@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/spec/spec_helper.rb" line="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dezrez" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/audit.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/feed.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/photo.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/portals.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/post.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/property.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/property_parser.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/version.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/all_results.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1022444.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1062005.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1217869.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1345636.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1348309.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1352310.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1404958.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1425711.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1657526.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680978.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680980.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680985.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1913558.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1919875.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/2069973.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/2227293.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/258204.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/262452.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/393772.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/415010.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/462648.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/800836.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/801408.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/862250.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/871282.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/968301.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/all_results.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2432973.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2434681.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2435833.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436023.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436491.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436529.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436584.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436673.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436957.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2438301.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2438422.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440292.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440573.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440608.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440666.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440715.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440772.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440887.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/photo_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/portals_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/post_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/property_parser_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/property_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/subscriber_spec.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test_dezrez.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez.rb" afterPath="$PROJECT_DIR$/lib/dezrez.rb" />
+    </list>
+    <ignored path="dezrez.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dezrez" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="property.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="58" column="11" selection-start="1822" selection-end="1822" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_meta.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="35" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portals.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="9" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="subscriber.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/subscriber.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="14" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="audit.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="23" selection-start="31" selection-end="31" vertical-scroll-proportion="0.07120253">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dezrez" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/dezrez">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="9" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dezrez.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
+        <option value="$PROJECT_DIR$/.rspec" />
+        <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/models/property_parser_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/property_parser.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/post.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/settings.yml" />
+        <option value="$PROJECT_DIR$/spec/models/portals_spec.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/property.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/logger.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
+        <option value="$PROJECT_DIR$/bin/dezrez" />
+        <option value="$PROJECT_DIR$/lib/dezrez/audit.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dezrez" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Favorites" />
+      <pane id="RailsProjectView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
+    <property name="recentsLimit" value="5" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$/lib/dezrez" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Test::Unit/Shoulda.All tests in: website">
+    <configuration default="false" name="All tests in: website" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda" temporary="true">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="dezrez" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/spec/models/website" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="$PROJECT_DIR$/spec/models/website" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_CLASS_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/{*_test,test_*}.rb" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="ALL_IN_FOLDER" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="INHERITANCE_CHECK_DISABLED" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_CLASS_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="INHERITANCE_CHECK_DISABLED" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: dezrez" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="dezrez" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: dezrez" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="dezrez" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="dezrez" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="dezrez" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Test::Unit/Shoulda.All tests in: website" />
+      <item index="1" class="java.lang.String" itemvalue="Rails.Development: dezrez" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: dezrez" />
+      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="4" class="java.lang.String" itemvalue="Rake.test" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion_IDEA</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="" />
+      <created>1326836359295</created>
+      <updated>1326836359295</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="28" width="1440" height="844" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270073" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2174221" sideWeight="0.6729927" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="9" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/portals_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="47" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/property_parser.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="25" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="11" selection-start="1822" selection-end="1822" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="35" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/subscriber.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="14" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dezrez">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="9" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="23" selection-start="31" selection-end="31" vertical-scroll-proportion="0.07120253">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

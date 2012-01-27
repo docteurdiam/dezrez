@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="800836" eaid="398" bid="603" nid="35967" valNegID="" instNegID="" sale="true" instructed="26/2/2007 00:00:00" category="1" featured="false" price="&#163;220,000" priceVal="220000" POA="false" currency="GBP" rentalperiod="1" updated="19/1/2012 10:46:34" dateInstructed="" dateSTC="" bedrooms="3" bathrooms="2" instructionLevel="0" receptions="1" leaseType="1" garages="0" gardens="1" otherrooms="1" specials="1" parkingSpaces="0" metropix="0" propertyType="10" period="Not Applicable" brochureApproved="true" hits="123" latitude="51.6230058462" longitude="-0.1479944178" sold="0" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="051d9792-df32-456f-97bc-c4dcdb32024a">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="53" eer_p="68" eir_c="70" eir_p="82" security="0" market="true" sendToPortal="true" ordered="30/12/1899 00:00:00"></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">115a</num>
+        <sa1 display="true">Brunswick Park Road </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N11 1EA</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Brunswick Park Road, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="30/5/2007 17:26:27" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="30/5/2007 17:26:28" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="30/5/2007 17:26:28" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="30/5/2007 17:26:28" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="29/11/2011 15:24:40" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="30/5/2007 17:26:28" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="28/10/2011 12:24:53" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="8" updated="3/11/2011 11:00:57" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=8&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="9" updated="3/11/2011 11:00:58" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=800836&amp;PhotoID=9&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=53&amp;Potential=68&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="11" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=70&amp;Potential=82&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00800836&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">.Situated within a pleasant cul-de-sac location this imposing larger than average family home has the benefit of garage approached via own driveway, a ground floor cloakroom, en-suite shower room/wc and the possibility of a hot tub to remain. The living accommodation itself comprises of a lounge measuring 19'5 maximum x 13'0 maximum, a well appointed kitchen/diner measuring 15'6 x 9'6 maximum, dining room and cloakroom to the ground floor. to the first floor there are four bedrooms, a family bathroom/wc and an en-suite shower room off of the master bedroom which measures 14'0 x 10'6. The rear garden measures approximately 30ft x 39ft and houses a hot tub which has the possibility of remaining. Still under builders guarantee and having the benefit of its own garage, extensive double glazing, gas central heating we recommend you view at the earliest possible opportunity in order to avoid disappointment.&lt;br/&gt;&lt;br/&gt; </description>
+        <description id="2" summary="false">Three Bedrooms&lt;br/&gt;Lounge&lt;br/&gt;Dining Room&lt;br/&gt;Kitchen&lt;br/&gt;Bathroom&lt;br/&gt;Gas Central Heating&lt;br/&gt;UPVC Double Glazing&lt;br/&gt;Rear Garden&lt;br/&gt;An internal inspection is highly recommended</description>
+        <description id="3" summary="false">Freehold</description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="">
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description>The property benefits from a patio area with the majority laid to lawn. The garden is panel enclosed. There is side pedestrian access with a small garden store at back of garage and a large garden shed.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>A comprehensive range of eye and base level units which incorporate a NEFF four ring gas hob with built in extractor over. Built in NEFF double oven with grill with a NEFF convection microwave. Diplomat built in fridge and Diplomat built in dishwasher. One and half stainless steel single drainer sink unit with mixer taps over. Part tiled decorative walling and tiled flooring.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom ensuite</heading>
+              <description>With shower cubicle and shower over. Low level W.C. and fully tiled decorative walling. Sit on vanity basin with vanity unit under. Extractor fan.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>White four piece bathroom suite comprising of panel bath with mixer taps over. Shower cubicle with shower. Hand basin. Low level W.C. Heated towel rail. Laminate and tile flooring. Extractor fan. Obscured double glazed window to the front elevation. Ceiling inset spotlights.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>Open fireplace with surround and mantle. Double glazed window to the front elevation. Double radiator. French doors lead to dining room.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>Maximum measurements. Double glazed windows to the rear elevation. Double radiator.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>With shower cubicle and shower over. Low level W.C. and fully tiled decorative walling. Sit on vanity basin with vanity unit under. Extractor fan.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>Papered ceiling. Three piece suite comprising of panelled bath, low level w.c. and pedestal wash hand basin. Ceramic tiles to bottom half of walls. Built-in storage cupboard. Carpet tiled flooring. PVCu double glazed frosted window overlooking the side with roller blind to remain. Heated towel rail</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

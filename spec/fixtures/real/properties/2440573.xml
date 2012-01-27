@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="E1D57034-6C07-44C4-A458-425CAE9D9247">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <CustomLogoURL>Default</CustomLogoURL>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ConveyancingCaseDetails="False" RegisterWithBranch="False" ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="2440573" eaid="1322" bid="2104" nid="0" valNegID="41689" instNegID="41689" sale="false" instructed="23/1/2012 00:00:00" category="1" featured="true" price="&#163;1,650" priceVal="1650" POA="false" currency="GBP" rentalperiod="3" updated="23/1/2012 13:53:11" dateInstructed="23/01/2012" dateSTC="" bedrooms="4" bathrooms="4" instructionLevel="3" receptions="1" leaseType="1" garages="0" gardens="0" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="1" latitude="51.5318808623" longitude="-0.1862987711" sold="0" deleted="false" UO_LA="false" sendToPortal="true" furnished="true" pets="1" children="0" smoking="1" students="1" sharers="1" availableTenancies="255" availableTo="23/01/2012 00:00:00" availableForm="23/01/2012 00:00:00" minLeasePeriod="0" maxLeasePeriod="0" portfolio="false" sessionGUID="cc988aa6-f9aa-41df-92e4-bc96c5e50b67">
+      <branch>
+        <name>Kilburn</name>
+        <tel>0207 078 1110</tel>
+        <email>info@diamondresidential.co.uk</email>
+        <address>
+          <sa1>254 Belsize Road</sa1>
+          <sa2>Kilburn</sa2>
+          <town></town>
+          <city>London</city>
+          <county></county>
+          <country></country>
+          <postcode>NW6 4BT</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="0" eer_p="0" eir_c="0" eir_p="0" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">66</num>
+        <sa1 display="true">Maida Vale </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>W9 1PR</postcode>
+        <locationcodes>(2) </locationcodes>
+        <useAddress>Maida Vale, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="23/1/2012 13:50:32" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440573&amp;PhotoID=1&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="2" updated="23/1/2012 13:51:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440573&amp;PhotoID=2&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="3" updated="23/1/2012 13:50:13" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440573&amp;PhotoID=3&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="4" updated="23/1/2012 13:51:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440573&amp;PhotoID=4&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=002440573&amp;Template=PortalBrochure&amp;eaid=1322</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Diamond residential is delighted to offer this stunning 4 bedroom property which is tastefully decorated throughout. On the first floor of an elegant building with concierge, the property comprises a large reception room with dining area opening onto private balcony, spacious modern kitchen with breakfast area, 2 spacious bedrooms both with fitted wardrobes and en suite bathrooms, further well-proportioned bedroom with en suite shower room, fourth bedroom, bathroom and guest cloakroom. Excellent transport links and location which is moments from all the shops and amenities of Maida Vale(Bakerloo line)  and St. John's Wood (Jubilee line). Available furnished or unfurnished. Please get in contact with us to arrange a viewing or for more information. </description>
+        <description id="2" summary="false"></description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="">
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description />
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

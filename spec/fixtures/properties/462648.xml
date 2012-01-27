@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="462648" eaid="398" bid="603" nid="12217" valNegID="" instNegID="" sale="true" instructed="4/1/2006 00:00:00" category="1" featured="false" price="&#163;315,000" priceVal="315000" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:13:41" dateInstructed="" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="1" metropix="308" propertyType="5" period="Period" brochureApproved="true" hits="3208" latitude="51.6424866741" longitude="-0.186223924" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="e0e46b29-5dc9-4849-a0ca-3003e1d27c91">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="35" eer_p="45" eir_c="45" eir_p="35" security="5" market="true" sendToPortal="true" ordered="30/12/1899 00:00:00"></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">50</num>
+        <sa1 display="true">Firs Lane </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N21 3ES</postcode>
+        <locationcodes>(LM)(TC)(RB) </locationcodes>
+        <useAddress>Firs Lane, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 13:06:21" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="13/10/2006 15:58:59" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="13/10/2006 15:59:15" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 13:06:22" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="30/11/2009 11:36:25" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 13:06:22" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="10" updated="11/5/2006 22:07:24" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=462648&amp;PhotoID=10&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=35&amp;Potential=45&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="10" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=45&amp;Potential=35&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00462648&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A beautifully presented and spacious detached family home for sale with indoor pool complex, on the prestigious St George's Hill Estate. In all about 1.25 acres.This magnificent chateau-style residence of grand proportions extends to about 8,500 square feet and has been built to a high specification with an exacting attention to detail.&lt;br/&gt; </description>
+        <description id="2" summary="false">6 bedrooms&lt;br/&gt;5 reception rooms&lt;br/&gt;6 bathrooms&lt;br/&gt;Outbuildings</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes>needs renovation</notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Main Room">
+              <heading>Main Room</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="Lounge/Dining Room">
+              <heading>Lounge/Dining Room</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen/Morning</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+          </area>
+          <area title="first floor">
+            <feature type="bedroom">
+              <heading>Master Bedroom</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>no toilet or bath</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+          </area>
+          <area title="outside">
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Spacious and accomadating.</description>
+            </feature>
+            <feature type="garden">
+              <heading>Front Garden</heading>
+              <description>8.00m x 4.00m (26' 3" x 13' 1") with patio area</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

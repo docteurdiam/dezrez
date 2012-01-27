@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="862250" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="24/4/2007 00:00:00" category="1" featured="false" price="&#163;365,000" priceVal="365000" POA="false" currency="GBP" rentalperiod="1" updated="17/1/2012 11:44:20" dateInstructed="" dateSTC="" bedrooms="4" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="0" otherrooms="3" specials="1" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="false" hits="3524" latitude="51.57518" longitude="-4.015871" sold="0" deleted="false" UO_LA="false" sendToPortal="true" yaw="101" pitch="-10" zoom="0" portfolio="false" sessionGUID="ea60625a-f940-474b-87a5-1d80e5b67ee5">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="25" eer_p="50" eir_c="33" eir_p="100" security="0" market="true" sendToPortal="false" ordered="30/12/1899 00:00:00">http://www.dezrez.com</hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">50</num>
+        <sa1 display="true">Firs Lane </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N21 3ES</postcode>
+        <locationcodes>(GP)(TC)(RB)(AV) </locationcodes>
+        <useAddress>Firs Lane, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="1/11/2011 16:14:04" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="12/12/2011 12:45:14" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="5/1/2012 11:41:34" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="5/1/2012 11:41:34" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="23/11/2011 11:26:09" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="8" updated="1/11/2011 15:49:51" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=862250&amp;PhotoID=8&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=25&amp;Potential=50&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=33&amp;Potential=100&amp;Rotate=0&amp;width=500</picture>
+        <document category="HIP_Link">http://www.dezrez.com</document>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00862250&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">This substantial detached residence is situated along one of Camberley's most sought after locations, also set within a mature two thirds of an acre plot with landscaped gardens. The property consists from a living room, dining room, 18' family room, 15' kitchen/breakfast room, utility room, two cloakrooms, five bedrooms, family bathroom and separate W.C. Externally the grounds boast from a detached garage, driveway with also the potential to extend </description>
+        <description id="2" summary="false">Stoke Road. &lt;br/&gt;Flat, One Bedroom. &lt;br/&gt;One Reception Room &lt;br/&gt;Double Glazed Windows &lt;br/&gt;Electric Storage Heating, No Chain.</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext>offers in region of</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="Entrance Hall">
+              <heading>Entrance Hall</heading>
+              <description />
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>8.00m x 6.00m (26' 3" x 19' 8") Brilliant family kitchen recently refurbished.  This leads onto a dinning room whose french windows allows both rooms to be filled with light.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>13.00m x 1.00m (14yds 8" x 3' 3") Front aspect bay window with original window furniture - enjoying an attractive vista of front courtyards and gardens. This attractive sized reception room features an impressive Edwardian archway which gives access to a solid marble fireplace with Edwardian style fitted gas fire with tiled surround, stone hearth and ornamental brass footplate. High smooth finish ceilings with cornice, decorative door furniture, picture rail, radiators.</description>
+            </feature>
+          </area>
+          <area title=" First floor">
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>5.00m x 3.00m (16' 5" x 9' 10")  This bedroom is the same size as the lounge and has plenty of room to take a kingsize bed. There is a built in wardrobe and a TV point.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>8.00m x 4.00m (26' 3" x 13' 1") This lounge has had some work done already skirting boards and ceiling have just been replaced. The room is large and has lots of potential for a great modern living room with all the trimmings.</description>
+            </feature>
+          </area>
+          <area title=" Loft room" />
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

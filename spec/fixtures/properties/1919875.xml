@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1919875" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="19947" sale="true" instructed="31/8/2010 00:00:00" category="1" featured="true" price="P.O.A." priceVal="0" POA="true" currency="GBP" rentalperiod="1" updated="6/1/2012 11:48:10" dateInstructed="31/08/2010" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="0" receptions="1" leaseType="3" garages="0" gardens="0" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" propertyType="5" period="Edwardian" brochureApproved="true" hits="2091" latitude="51.6373792034207" longitude="-0.135668814182281" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="36" pitch="8" zoom="0" portfolio="false" sessionGUID="35f161ee-5cac-4e98-a3f7-12faf1cf52ce">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="76" eer_p="65" eir_c="89" eir_p="76" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">6</num>
+        <sa1 display="true">Felton Aveneue </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(GP)(TC)(RB) </locationcodes>
+        <useAddress>Felton Aveneue, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 10:55:15" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="6/1/2012 11:48:10" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="6/1/2012 11:48:11" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="6/1/2012 11:48:14" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="16/11/2011 13:20:03" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 10:55:16" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1919875&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=76&amp;Potential=65&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=89&amp;Potential=76&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001919875&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A handsome Georgian style residence offering substantial accommodation on a plot approaching three quarters of an acre, enjoying an excellent location close to the heart of Virginia Water village. Bel Air is a uniquely designed home which was completed for the current owner in 2009; the property boasts excellent, well planned accommodation on all four storeys and in our opinion the architectural design of the facade is simply exquisite. Property such as this is a very rare commodity. </description>
+        <description id="2" summary="false">4 bedrooms&lt;br/&gt;2 reception rooms&lt;br/&gt;5 bathrooms&lt;br/&gt;Detached&lt;br/&gt;Garden&lt;br/&gt;Land&lt;br/&gt;Private Parking&lt;br/&gt;0.75 acres</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false">Lease Length:&lt;br/&gt;Break Clause:&lt;br/&gt;Service Charge:&lt;br/&gt;Rateable Value:&lt;br/&gt;Rates Payable:</description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext>Offers In Excess Of</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>10.00m x 3.00m (10yds 2' 10" x 9' 10") Front aspect bay window with original window furniture - enjoying an attractive vista of front courtyards and gardens. This attractive sized reception room features an impressive Edwardian archway which gives access to a solid marble fireplace with Edwardian style fitted gas fire with tiled surround, stone hearth and ornamental brass footplate. High smooth finish ceilings with cornice, decorative door furniture, picture rail, radiators.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>12.00m x 4.00m (13yds 4" x 13' 1") This attractively presented luxury fitted kitchen features 'gothic style' solid Maple units with Granite worksurfaces. Extensive range of eye and base level units with one and a half bowl stainless steel sink unit with mixer taps and cupboards under, recessed enclosed storage space for fridge/freezer, plumbing for dishwasher, recessed and fitted gas range style cooker with 5 ring hob and dual oven and grill under, matching range of units with Granite worktops, space for breakfast table, attractive bay window with side views of the gardens, door giving access into dining room, stripped and polished wooden floors, smooth finish high ceilings with coving and decorative wall paintings, picture rail, recessed lighting, door giving access into Utility room.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>'White' suite comprising panel enclosed bath, separate corner fitted shower cubicle, pedestal wash hand basin, obscured glass sash window to side, part tiled walls, high ceiling with recessed lighting, wall mounted heated towel rail.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+          </area>
+          <area title=" First floor">
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>7.00m x 9.00m (23'  x 29' 6") Side aspect with attractive elevated tree lined vista, radiator, inter-connecting door giving access into master bedroom, smooth finish high ceilings with cornice and recessed lighting, picture rail, door giving access into en-suite.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>7.00m x 9.00m (23'  x 29' 6") Accessed from galleried first floor landing and inner lobby. Attractive bay with sash windows, extensive range of triple fitted wardrobes with pigeon storage cupboards over, smooth finish high ceilings with cornice, picture rail, telephone point, radiator.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>6.00m x 8.00m (19' 8" x 26' 3") Accessed from galleried first floor landing. Door giving access into inner lobby. Master bedroom enjoys an attractive panoramic vista of front courtyard and gardens, original Edwardian style fireplace, sash windows, door giving access to balcony, attractive polished wood floors, telephone point, radiator, picture rail, smooth finish ceilings with cornice and recessed lighting. Inter-connecting door giving access into guest suite.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

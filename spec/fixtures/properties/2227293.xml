@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="2227293" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="20528" sale="true" instructed="4/7/2011 00:00:00" category="1" featured="false" price="&#163;545,000" priceVal="545000" POA="false" currency="GBP" rentalperiod="1" updated="24/11/2011 12:16:32" dateInstructed="04/07/2011" dateSTC="" bedrooms="5" bathrooms="3" instructionLevel="0" receptions="3" leaseType="3" garages="2" gardens="1" otherrooms="3" specials="0" parkingSpaces="0" metropix="308" propertyType="5" period="New" brochureApproved="true" hits="406" latitude="52.323117491186" longitude="-0.900181531906128" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="d30c2d37-c81d-4f92-af40-ac7f86e2b309">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="50" eer_p="65" eir_c="22" eir_p="95" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">1</num>
+        <sa1 display="true">Warwick Road </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N11 2SS</postcode>
+        <locationcodes>(CC)(GP)(RB) </locationcodes>
+        <useAddress>Warwick Road, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 11:25:52" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 11:25:53" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 11:25:53" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 11:25:53" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 11:25:53" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 11:25:53" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="28/10/2011 11:25:53" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2227293&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=50&amp;Potential=65&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="10" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=22&amp;Potential=95&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=002227293&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Currently being built to an exceptional standard by Edenhouse Estates this magnificent five bedroom mansion is approached via a 24 hour manned security lodge which also provides a concierge service. The property is set at the top of the cul-de-sac on this stunning development of just four individual residences.&lt;br/&gt;&lt;br/&gt;The sumptuous accommodation is listed below but includes large entertaining areas, a beautiful living kitchen, magnificent master bedroom suite, and leisure complex with swimming pool which leads onto the large landscaped south facing gardens that back onto open fields and possess beautiful views. There is also a dependant relatives suite and a triple garage.&lt;br/&gt;&lt;br/&gt;The property will be fitted with the latest technology controlling the heating, lighting and sound systems throughout the house, and it will be possible for the Purchaser to interior design the property to their own specification in conjunction with professional kitchen and bathroom designers. The pleasant gardens will be professionally landscaped and have a high degree of privacy. </description>
+        <description id="2" summary="false">Three Reception Rooms&lt;br/&gt;Large Living Kitchen&lt;br/&gt;Seven Bedrooms&lt;br/&gt;Seven Bathrooms&lt;br/&gt;Leisure Suite &amp; Pool&lt;br/&gt;Dependent Relative Suite&lt;br/&gt;Triple Garage</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext>offers over</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>A spacious through room overlooking the courtyard to the front and the rear garden to the back of the property.&lt;br/&gt;</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>12' 11" x 11'  (3.94m x 3.35m) Finished to a high standard with extensive range of units and with large island unit this functional room enjoys the open aspect to the rear</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Main bathroom on ground floor. Contains bath, shower, sink and toilet.&lt;br/&gt;Finished to a high standard throughout</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>Finished to a high standard with extensive range of units and with large island unit this functional room enjoys the open aspect to the rear.</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>An L-shaped hall with oak floor. Under stairs storage cupboard</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>En-suite bathroom for bedroom 2</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>a special room for the guests with it's Dressing Room and En-suite facilities attached.&lt;br/&gt;</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>a special room for the guests with it's Dressing Room including built-in wardrobe.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 4</heading>
+              <description>there is restricted head height over this room but it provides a large double room and again with en-suite shower room and three velux window openings.&lt;br/&gt;</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 5</heading>
+              <description>agin with restricted head height but still a good double bedroom with two velux window openings and seperate en-suite shower room.&lt;br/&gt;</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>En-suite</heading>
+              <description>En-suite bathroom adjoining master bedroom.&lt;br/&gt;En-suite comprises toilet, shower and sink</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Master Bedroom</heading>
+              <description>5.50m x 3.30m (18' 1" x 10' 10") &lt;br/&gt;Large Master bedroom with fully fitted wardrobes.&lt;br/&gt;Room for king size bed and any required furniture.</description>
+            </feature>
+          </area>
+          <area title=" Outside">
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>6.20m x 5.90m (20' 4" x 19' 4") &lt;br/&gt;2nd Large Double Garage with room for 2 large vehicles</description>
+            </feature>
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>6.20m x 5.90m (20' 4" x 19' 4") &lt;br/&gt;Large Double Garage with room for 2 large vehicles</description>
+            </feature>
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description>The rear garden looks out across open greenbelt pasture land providing an unusual setting so close to such major business and shopping centers. the front area is the shingle courtyard servicing these 'Cheshire Farm' barn conversions.&lt;br/&gt;</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

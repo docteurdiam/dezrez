@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="258204" eaid="398" bid="603" nid="0" valNegID="31347" instNegID="38818" sale="true" instructed="23/8/2011 00:00:00" category="1" featured="false" price="&#163;115,950" priceVal="115950" POA="false" currency="GBP" rentalperiod="1" updated="16/1/2012 13:06:15" dateInstructed="23/08/2011" dateSTC="" bedrooms="2" bathrooms="1" instructionLevel="0" receptions="1" leaseType="3" garages="1" gardens="1" otherrooms="1" specials="0" parkingSpaces="0" metropix="308" propertyType="7" period="Modern" brochureApproved="true" hits="3234" latitude="51.6366925331" longitude="-0.1040828596" sold="0" deleted="false" UO_LA="false" sendToPortal="true" yaw="0" pitch="5" zoom="0" portfolio="false" sessionGUID="d7dd6a91-2ddb-4357-8645-858e8bad084b">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="46" eer_p="56" eir_c="68" eir_p="75" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">2</num>
+        <sa1 display="true">Paulin Drive </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N21 1AA</postcode>
+        <locationcodes>(RB),(Ref) </locationcodes>
+        <useAddress>Paulin Drive, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="26/1/2005 12:32:32" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=258204&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="26/1/2005 12:19:55" category="secondary" categoryID="2" caption="Lounge">http://data.dezrez.com/PictureResizer.ASP?PropertyID=258204&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 11:01:09" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=258204&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 11:01:09" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=258204&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 11:01:09" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=258204&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=46&amp;Potential=56&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=68&amp;Potential=75&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00258204&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended.A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended. </description>
+        <description id="2" summary="false">Modern end terrace house on the sought after Huntley homes development.&lt;br/&gt;2 good size bedrooms and a spacious lounge/diner.&lt;br/&gt;Fitted kitchen with built in gas oven and hob.&lt;br/&gt;Enclosed rear garden and single detached garage.&lt;br/&gt;Gas fired heating and double glazing.</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText>Whiteley</particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>17' 4" x 16' 5" (5.28m x 5.00m) superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point. superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>17' 4" x 16' 5" (5.28m x 5.00m) superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,</description>
+            </feature>
+          </area>
+          <area title="First floor">
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>17' 4" x 16' 5" (5.28m x 5.00m) superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>17' 4" x 16' 5" (5.28m x 5.00m) superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>17' 4" x 16' 5" (5.28m x 5.00m) superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,</description>
+            </feature>
+          </area>
+          <area title=" outside">
+            <feature type="garden">
+              <heading>Garden                                            </heading>
+              <description>superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </description>
+            </feature>
+            <feature type="garage">
+              <heading>Garage                                            </heading>
+              <description>superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard, tv arial point and telephone point.superb room with window to front open fire place,coved and artexed ceilings,understairs storage cupboard,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

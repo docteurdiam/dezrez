@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1217869" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="19947" sale="true" instructed="16/4/2009 00:00:00" category="1" featured="false" price="&#163;525,000" priceVal="525000" POA="false" currency="GBP" rentalperiod="1" updated="28/10/2011 12:33:46" dateInstructed="16/04/2009" dateSTC="" bedrooms="3" bathrooms="2" instructionLevel="0" receptions="3" leaseType="3" garages="1" gardens="2" otherrooms="3" specials="1" parkingSpaces="4" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="2744" latitude="51.6390903491" longitude="-0.1415579762" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="1db3d25b-54f2-431d-a7b2-48284701ac99">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="62" eer_p="70" eir_c="45" eir_p="50" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">Kadeem</num>
+        <sa1 display="true">Monkfrith Avenue </sa1>
+        <sa2 display="true">Southgate </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4PT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Monkfrith Avenue, Southgate, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 12:22:01" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 12:21:43" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 12:23:48" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 12:23:49" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 12:23:49" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 12:23:49" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="28/10/2011 12:23:49" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1217869&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=62&amp;Potential=70&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="9" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=45&amp;Potential=50&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001217869&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">This substantial detached house has been thoughtfully extended and improved by the present owners to provide excellent family accommodation arranged over two floors, complemented externally by a pleasant mature rear garden. The layout has been designed with the family in mind with the principle reception room, kitchen / family room both overlooking and opening directly onto the rear garden. On the ground floor the property further enjoys a large playroom, ideal for children, a ground floor cloakroom and spacious utility room. On the first floor there are five bedrooms, two of which are en-suite and a further family bathroom. The property is nicely set back from the road with a large sweeping driveway and a garage to the side. Beaumont Avenue is a sought after and established residential location which due to its close proximity to nearby local schooling to include Beaumont secondary school and Oakwood junior school makes its a highly prized address for families. The mainline station with regular trains into London St Pancras is just over a mile away. </description>
+        <description id="2" summary="false">4 bedroom Detached&lt;br/&gt;2 Bathrooms, 1 Ensuite&lt;br/&gt;3 Reception rooms&lt;br/&gt;Luxury Kitchen/Breakfast room&lt;br/&gt;Carrage Drive with Double garage&lt;br/&gt;In door heated Swimming pool&lt;br/&gt;</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="kitchen">
+              <heading>Luxury Kitchen / Breakfast Room</heading>
+              <description />
+            </feature>
+            <feature type="Double Aspect Lounge">
+              <heading>Double Aspect Lounge</heading>
+              <description />
+            </feature>
+            <feature type="Dining room">
+              <heading>Dining room</heading>
+              <description />
+            </feature>
+            <feature type="Snug">
+              <heading>Snug</heading>
+              <description />
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom 1</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Ensuite Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Family Bathroom</heading>
+              <description />
+            </feature>
+          </area>
+          <area title=" Gardens" />
+          <area title=" Exterior">
+            <feature type="garden">
+              <heading>Carrage Drive Way</heading>
+              <description />
+            </feature>
+            <feature type="garden">
+              <heading>Immaculates Gardens</heading>
+              <description />
+            </feature>
+            <feature type="garage">
+              <heading>Double Garage</heading>
+              <description />
+            </feature>
+          </area>
+          <area title=" Extention">
+            <feature type="In door Heated Swimming Pool">
+              <heading>In door Heated Swimming Pool</heading>
+              <description />
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="415010" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="29/9/2005 00:00:00" category="1" featured="false" price="&#163;211,500" priceVal="211500" POA="false" currency="GBP" rentalperiod="1" updated="11/1/2012 12:36:51" dateInstructed="" dateSTC="" bedrooms="2" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="1" otherrooms="2" specials="1" parkingSpaces="0" metropix="0" propertyType="5" period="Georgian" brochureApproved="true" hits="8496" latitude="51.620954" longitude="-0.128656" sold="0" deleted="false" UO_LA="false" sendToPortal="true" yaw="265" pitch="-3" zoom="0" portfolio="false" sessionGUID="99b94c15-2fda-4029-b3d2-abfd06494bf8">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="45" eer_p="50" eir_c="80" eir_p="90" security="0" market="true" sendToPortal="false" ordered="30/12/1899 00:00:00"></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">Flat 9, Haxby Court</num>
+        <sa1 display="true">Felbridge Close </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">London</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N11 4BN</postcode>
+        <locationcodes>(LM)(RB)(PS) </locationcodes>
+        <useAddress>Felbridge Close, London</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 11:51:56" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=415010&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 11:51:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=415010&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 11:51:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=415010&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 11:51:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=415010&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=45&amp;Potential=50&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="6" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=80&amp;Potential=90&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00415010&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Communal Entrance via security entry phone system to&lt;br/&gt;Communal Hall stair top top floor (2nd) and door to communal balcony area to &lt;br/&gt;Own entrance door to&lt;br/&gt;Hallway Coved and smooth ceiling with down lights, doors leading to&lt;br/&gt;Lounge Dinning Room: 20'2" (6.15m) &gt; 17'6" (5.33m) x 12'8" (3.86m) Double glazed window to side and double windows to front with door to own balcony, smooth ceiling, radiators.&lt;br/&gt;&lt;br/&gt;Fitted Kitchen: 9' (2.74m) x 7'7" (2.31m) Double glazed window to side. Range of white modern fitted units with built in hob and oven, stainless steel one and half bowl single drainer with mixer taps, space for washing machine and fridge freezer, tiled floor, part tiles walls, smooth ceiling with down lights.&lt;br/&gt;Bathroom: Double glazed window to sid. Comprising Bath, sower cubicle, low level wc, wash hand basin, chrome towel heater, part tiled walls. &lt;br/&gt;&lt;br/&gt; </description>
+        <description id="2" summary="false">&#8226; Two Bedrooms&lt;br/&gt;&#8226; Lounge&lt;br/&gt;&#8226; Dining Room&lt;br/&gt;&#8226; Kitchen&lt;br/&gt;&#8226; Bathroom&lt;br/&gt;</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Lounge (Reception)                                ">
+              <heading>Lounge (Reception)                                </heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </description>
+            </feature>
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:</description>
+            </feature>
+          </area>
+          <area title="First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>16' 5" x 12' 10" (5.00m x 3.90m) Two windows to front, inglenook fireplace, double radiator, wooden laminate flooring, TV point, coving to ceiling, open plan to:</description>
+            </feature>
+          </area>
+          <area title="Outside">
+            <feature type="garden">
+              <heading>Garden                                            </heading>
+              <description>Front Garden This has extensive parking on the drive as well as mature screening to the road and an abundance of shrubs and trees. From here there is access to the wide area to the side of the house where there is scope for extending the property, subject to the usual consents. This leads to the:   &lt;br/&gt;&lt;br/&gt;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </description>
+            </feature>
+            <feature type="garage">
+              <heading>Garage                                            </heading>
+              <description>Single detached with pitched roof power and lighting.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

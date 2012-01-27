@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1062005" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="26/11/2007 00:00:00" category="1" featured="false" price="&#163;400,995" priceVal="400995" POA="false" currency="GBP" rentalperiod="1" updated="2/11/2011 08:49:39" dateInstructed="" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="1" otherrooms="5" specials="2" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="false" hits="4259" latitude="51.6166696571" longitude="-0.1453636034" sold="0" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="9bea4f52-791f-41fa-ae08-57862c7701af">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="50" eer_p="75" eir_c="68" eir_p="74" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">27</num>
+        <sa1 display="true">Stewards Holte Walk </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N11 1NY</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Stewards Holte Walk, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="2/11/2011 08:46:56" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1062005&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="26/11/2008 14:52:09" category="secondary" categoryID="2" caption="Master Bedroom">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1062005&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="26/11/2008 14:52:09" category="secondary" categoryID="2" caption="Dinning Room">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1062005&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="26/11/2008 14:52:09" category="secondary" categoryID="2" caption="Hallway">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1062005&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="26/11/2008 14:52:09" category="floorplan" categoryID="3" caption="Ground Floorplan">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1062005&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=50&amp;Potential=75&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="7" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=68&amp;Potential=74&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001062005&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Situated in arguably the most sought after road in Fleet, this character 5 bedroom house which also benefits from a 1 bedroom annexe, has the main family accommodation over three floors to include 3 spacious reception rooms, well fitted kitchen/breakfast room, 2 family bathrooms and 5 bedrooms. The annexe comprises bedroom, modern kitchen, bathroom and living room with gas central heating. The whole property benefits from double glazing and central heating with radiators. Quietly situated in a tree lined avenue, the property sits on a one acre plot offering an extremely high level of privacy provided by mature trees and hedging and is within walking distance of Fleet town centre with its extensive range of shopping and leisure facilities, local schools and is approximately 1.75 miles from Fleet mainline station (London Waterloo from 43 minutes). &lt;br/&gt;&lt;br/&gt; </description>
+        <description id="2" summary="false">Heated Pool&lt;br/&gt;Double Glazing&lt;br/&gt;Off road parking&lt;br/&gt;double Garage</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes>fixtures and fittings to be included in sale</notes>
+        <charges></charges>
+        <pricetext>Offers Above:</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="Entrance Hall">
+              <heading>Entrance Hall</heading>
+              <description>Leading to:</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>Kitchen description Kitchen description Kitchen description Kitchen description Kitchen description Kitchen description 5' 10" x 5' 10" (1.78m x 1.78m)</description>
+            </feature>
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>7.00m x 7.00m (23'  x 23' ) Feature bay window with attractive views of garden, open fireplace with coal effect gas fire.</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>8.00m x 3.00m (26' 3" x 9' 10") Rear aspect window with views over garden, open fireplace (not functional), glazed door leading to rear vestibule.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="Landing">
+              <heading>Landing</heading>
+              <description>Leading to:</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 1</heading>
+              <description>7.00m x 6.00m (23'  x 19' 8") Attractive double aspect room with views over garden.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Ensuite Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>8.00m x 6.00m (26' 3" x 19' 8") Rear aspect with views over garden, built in wardrobe cupboard, feature fireplace (not used by current owners), vanity unit with wash hand basin.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>4' 10" x 6'  (1.47m x 1.83m) Bedroom description Bedroom description Bedroom description Bedroom description Bedroom description Bedroom description Bedroom description</description>
+            </feature>
+          </area>
+          <area title=" Second Floor">
+            <feature type="Attic Room">
+              <heading>Attic Room</heading>
+              <description>8.00m x 6.00m (26' 3" x 19' 8")  Shelved airing cupboard with lagged copper cylinder. Bedroom: Attractive double bedroom with views over front garden, built in wardrobes with matching bedside units. Kitchen: Well fitted kitchen with eye and base level units, sink and drainer unit, built in BOSCH hob with electric oven under and extractor fan over, integrated washer/dryer, fridge, freezer, door to living room. Living Room: Attractive views over rear garden through window and door, gas fire. Bathroom: Frosted window, modern suite comprising panel enclosed bath with mixer tap, separate wall mounted shower and shower screen, vanity unit with wash hand basin, low level wc, fully tiled walls and flooring, heated towel rail.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+          </area>
+          <area title=" Exterior">
+            <feature type="garden">
+              <heading>Front Garden</heading>
+              <description>The property is privately situated on a one acre plot with the front garden enjoying a high level of screening provided by rhododendron hedging, large in and out driveway with parking for numerous vehicles leading to a detached double garage. The southerly aspect private rear garden has a full width patio immediately to the rear of the property with steps leading down to a large lawn, further area of garden is laid to light woodland with numerous Rhododendron and Laurel hedging. The property is well screened by mature trees and hedging.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="Off Road Parking">
+              <heading>Off Road Parking</heading>
+              <description />
+            </feature>
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Electric roller door, electric power and light.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="Swimming Pool">
+              <heading>Swimming Pool</heading>
+              <description>Swimming Pool Swimming Pool Swimming Pool Swimming Pool Swimming Pool Swimming Pool Swimming Pool Swimming Pool Swimming Pool</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1348309" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="20528" sale="true" instructed="6/7/2011 00:00:00" category="1" featured="false" price="&#163;535,000" priceVal="535000" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:43:25" dateInstructed="06/07/2011" dateSTC="" bedrooms="5" bathrooms="2" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="1" otherrooms="3" specials="1" parkingSpaces="3" metropix="308" propertyType="5" period="Georgian" brochureApproved="true" hits="299" latitude="51.693695" longitude="-4.149963" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="166" pitch="-5" zoom="1" portfolio="false" sessionGUID="74968581-72ea-4bff-977d-d163af6dbf11">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="40" eer_p="50" eir_c="54" eir_p="90" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">11</num>
+        <sa1 display="true">Lakenheath </sa1>
+        <sa2 display="true">Oakwood </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4RT</postcode>
+        <locationcodes>(M1)(LM),Fishing lake </locationcodes>
+        <useAddress>Lakenheath, Oakwood, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 15:29:08" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="23/7/2009 11:00:20" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="9/8/2011 18:02:52" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="9/8/2011 18:02:52" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="11/12/2009 13:17:58" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="22/7/2009 14:57:56" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="8" updated="17/10/2008 10:20:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1348309&amp;PhotoID=8&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=40&amp;Potential=50&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="10" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=54&amp;Potential=90&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001348309&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A most attractive 1920's style extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. </description>
+        <description id="2" summary="false">Stunning Period House&lt;br/&gt;Four Double bedrooms&lt;br/&gt;Bathroom + En Suite Shower room&lt;br/&gt;Kitchen / Breakfast room / Play area&lt;br/&gt;Extended&lt;br/&gt;100' Garden (south facing)&lt;br/&gt;</description>
+        <description id="3" summary="false">Open House Sunday 21st September. 10am to 2pm.  Call now to confirm your viewing.  Newly refurbished house, available to move into immediately. Stamp duty paid for by sellers.</description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false">]</description>
+        <notes></notes>
+        <charges>lEASE 89 YRS</charges>
+        <pricetext></pricetext>
+        <particularsText>Weekend viewing only</particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="Entrance Hall">
+              <heading>Entrance Hall</heading>
+              <description>Approached via Entrance Porch.  Ornate wood paneling. Under stair storage.</description>
+            </feature>
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="Cosy Room">
+              <heading>Cosy Room</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Breakfast room</heading>
+              <description>17' 6" x 12' 2" (5.33m x 3.71m) Quality fitted Oak fronted units.  Inset Butler sink. Aga. Quarry tiled floor and marble topped work surfaces.  Space for dining table. &lt;br/&gt;</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Master Bedroom with En Suite Bathroom &amp; WC</heading>
+              <description>14' 2" x 11' 10" (4.32m x 3.61m) Excluding fitted wardrobes to two walls. Oak lined.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>En Suite Shower room</heading>
+              <description>Walk in double shower with massage jets. Wash hand basin. Low flush WC. Fully tiled walls.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>14' 2" x 10' 8" (4.32m x 3.25m) Fitted wardrobes. Aspect over garden.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>12' 8" x 10' 10" (3.86m x 3.30m) Built in storage cupboard</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 4</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Family Bathroom</heading>
+              <description>Modern suite.  Panelled bath with aquilisa shower attachment. Feature wash hand basin and low flush WC.  Fully tiled.</description>
+            </feature>
+          </area>
+          <area title=" Second floor">
+            <feature type="bedroom">
+              <heading>Bedroom two</heading>
+              <description>14' x 12' 3" (4.27m x 3.73m) approx&lt;br/&gt;UPVC window to front, radiator, storage cupboard, smoke alarm</description>
+            </feature>
+            <feature type="garage">
+              <heading>Double Garage</heading>
+              <description>Garage has plumbing for washing machine</description>
+            </feature>
+          </area>
+          <area title="Exterior">
+            <feature type="garden">
+              <heading>Landscaped Garden</heading>
+              <description>Some 110' in length and approx. 65' wide. Stunning garden maintained by a Gardner on a weekly basis. Mature shrubs and flower border. Mainly laid to lawn.</description>
+            </feature>
+            <feature type="Sauna">
+              <heading>Sauna</heading>
+              <description>Heated outdoor swimming pool.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

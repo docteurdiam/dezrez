@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1680980" eaid="398" bid="603" nid="12217" valNegID="29562" instNegID="29562" sale="true" instructed="18/1/2010 00:00:00" category="1" featured="false" price="&#163;515,000" priceVal="515000" POA="false" currency="GBP" rentalperiod="1" updated="24/11/2011 12:16:32" dateInstructed="18/01/2010" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="1" metropix="0" propertyType="5" period="Period" brochureApproved="true" hits="3188" latitude="40.446981" longitude="-3.735378" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="0" pitch="5" zoom="0" portfolio="false" sessionGUID="af43f3a0-efe5-4a7e-b8d8-6bb731f15ed0">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="50" eer_p="60" eir_c="0" eir_p="0" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">1</num>
+        <sa1 display="true">Ivere Drive </sa1>
+        <sa2 display="true">New Barnet </sa2>
+        <town display="true">BARNET</town>
+        <city display="true"></city>
+        <county display="true">Hertfordshire</county>
+        <country display="true"></country>
+        <postcode>EN5 1AS</postcode>
+        <locationcodes>(LM)(TC) </locationcodes>
+        <useAddress>Ivere Drive, New Barnet, BARNET, Hertfordshire</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="18/1/2010 16:59:58" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="18/1/2010 16:59:58" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="18/1/2010 16:59:58" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="18/1/2010 16:59:58" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="18/1/2010 16:59:59" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="10" updated="18/1/2010 16:59:59" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680980&amp;PhotoID=10&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=50&amp;Potential=60&amp;Rotate=0&amp;width=500</picture>
+        <virtualtour>v tour</virtualtour>
+        <document category="brochure">pdf</document>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001680980&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A much sort after street, this top floor flat has two double bedrooms, decent sized living room with french windows to a roof terrace, a seperate kitchen and a hall way area.On a much desired street, this top floor flat has two double bedrooms, decent sized living room with french windows to a roof terrace, a seperate kitchen and a hall way area. </description>
+        <description id="2" summary="false">Semi Detached&lt;br/&gt;3 Beds&lt;br/&gt;2 Reception &lt;br/&gt;Garden</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes>needs renovation</notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Main Room">
+              <heading>Main Room</heading>
+              <description>Main reception room features integrated fireplace.</description>
+            </feature>
+            <feature type="Lounge/Dining Room">
+              <heading>Lounge/Dining Room</heading>
+              <description>Room for large dining table to seat up to 6</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen/Morning</heading>
+              <description>12' 10" x 12' 10" (3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1 1/2 bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+          </area>
+          <area title="first floor">
+            <feature type="bedroom">
+              <heading>Master Bedroom</heading>
+              <description>Master bedroom has integrated furniture.&lt;br/&gt;Room for large double bed</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>Ideal childs room. room for a single bed with extra furniture if required</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>bathroom has a shower, sink and toilet</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>Ideal guest bedroom with room for a double bed and furniture</description>
+            </feature>
+          </area>
+          <area title="outside">
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Single garage with room for one car and bicycles etc if required</description>
+            </feature>
+            <feature type="garden">
+              <heading>Front Garden</heading>
+              <description>8.00m x 4.00m (26' 3" x 13' 1") with patio area</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

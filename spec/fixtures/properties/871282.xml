@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="871282" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="2/5/2007 00:00:00" category="1" featured="false" price="&#163;287,950" priceVal="287950" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 11:04:46" dateInstructed="" dateSTC="" bedrooms="2" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="2" otherrooms="5" specials="1" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="false" hits="3836" latitude="51.6325933229" longitude="-0.1288186887" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="8ece9747-f207-4845-a2c3-8a814252a86b">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="36" eer_p="55" eir_c="37" eir_p="42" security="5" market="true" sendToPortal="false" ordered="30/12/1899 00:00:00">http://www.google.com/</hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">43</num>
+        <sa1 display="true">Chase Side </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 5PB</postcode>
+        <locationcodes>(TC)(RB)(AV)(PS) </locationcodes>
+        <useAddress>Chase Side, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 12:41:32" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=871282&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 12:41:56" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=871282&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 12:42:32" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=871282&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 12:42:33" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=871282&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=36&amp;Potential=55&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="6" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=37&amp;Potential=42&amp;Rotate=0&amp;width=500</picture>
+        <document category="HIP_Link">http://www.google.com/</document>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00871282&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">In grounds of almost three-quarters of an acre with far-reaching views over fields to the rear, this very spacious family home dates, we are told, from the 1950's and was substantially added to in the 1980's. There is now accommodation which has the flexibility to be used as one large house or as a house with up to two annexes. </description>
+        <description id="2" summary="false">Two Bedrooms&lt;br/&gt;Lounge&lt;br/&gt;Dining Room&lt;br/&gt;Kitchen&lt;br/&gt;Bathroom&lt;br/&gt;Gas Central Heating&lt;br/&gt;UPVC Double Glazing&lt;br/&gt;Rear Garden&lt;br/&gt;An internal inspection is highly recommended</description>
+        <description id="3" summary="false">Freehold</description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes>&#163;250000 to &#163;350000</notes>
+        <charges>75 years left on Lease
+Lease costs &#163;150 PA
+Service charge &#163;70 pm</charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="">
+            <feature type="Utility Room">
+              <heading>Utility Room</heading>
+              <description>8.00m x 7.00m (26' 3" x 23' ) Laminated worktop, boiler for the central heating and domestic hot water.</description>
+            </feature>
+            <feature type="Entrance Hall">
+              <heading>Entrance Hall</heading>
+              <description>Where there is a radiator, dado rail, coved ceiling and understairs cupboard.</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>15' 11" x 11' 11" (4.85m x 3.63m) Has patterned ceiling cornice, radiator and double-glazed a sliding double-glazed door to the patio.</description>
+            </feature>
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>19' 11" x 11' 11" (6.07m x 3.63m) Features a restored deep-moulded solid marble French fireplace surround to a gas coal-effect real-flame fire, radiator, dado rail and coved ceiling. To the front there is a sealed unit double-glazed window overlooking the front garden.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen\diner</heading>
+              <description>Has a very smart kitchen by Aspect, including cream-finished Shaker-style units with polished granite worktops and including an extensive range of wall cupboards as well as base cupboards and drawers. There is a 5-ring integrated gas hob with a stainless steel chimney hood over, integrated stainless steel sinks and granite drainer, integrated dishwasher and a high level Neff double oven. To the front a sealed unit double-glazed window overlooks the front garden and at the rear there is ample space for a breakfast table and chairs with outlook through the double-glazed sliding doors with view over the rear gardens and fields beyond.</description>
+            </feature>
+            <feature type="Landing">
+              <heading>Landing</heading>
+              <description>With a radiator coved ceiling, loft access and a sealed unit double-glazed window as well as a shelved linen cupboard.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom One</heading>
+              <description>Features an extensive range of fitted wardrobes with a coved ceiling, radiators, door to the En-suite and double-glazed sliding patio doors opening to the full-house-width balcony.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom Two</heading>
+              <description>Again features an extensive range of fitted wardrobes and corner display shelving as well as built-in wardrobes with floor-to-ceiling sliding mirrored doors. There is a coved ceiling, radiator and sliding double-glazed doors opening to the balcony.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Which has a white suite comprising a panelled bath with shower and shower screen over, pedestal basin and low-level w.c. Ceramic floor and wall tiling, radiator and a sealed unit double-glazed window.</description>
+            </feature>
+            <feature type="garden">
+              <heading>Front Garden</heading>
+              <description>Screened from the road and measures approximately 92' frontage to the road and features a large driveway with parking for several vehicles.</description>
+            </feature>
+            <feature type="garden">
+              <heading>Rear Garden</heading>
+              <description>Overall the plot's depth is approximately 260' to the right-hand side and 273' to the left with orchard fruit trees, a very old and beautiful cherry tree and extensive lawns, flowerbeds, shrubs etc. There are rural views to the rear also.</description>
+            </feature>
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Large double garage to the side/rear of the house.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

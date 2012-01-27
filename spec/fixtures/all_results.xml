@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertySearchSales>
+    <properties rentalperiod="0">
+      <pages page="1" count="26" pageCount="1" perPage="32000">
+        <page number="1" selected="true" />
+      </pages>
+      <property id="1919875" eaid="398" bid="603" rescomnew="1" featured="true" price="P.O.A." priceVal="0" currency="GBP" rentalperiod="1" updated="06/01/2012" bedrooms="3" bathrooms="1" receptions="1" garages="0" gardens="0" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="2091" leaseType="3" EATel="0845 465 2222" period="Edwardian" sold="1" UO_LA="false" picture="true" dateInstructed="31/08/2010" dateSTC="" latitude="51.6373792034207" longitude="-0.135668814182281" portfolio="false">
+        <num>6</num>
+        <sa1>Felton Aveneue </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(GP)(TC)(RB) </locationcodes>
+        <useAddress>Felton Aveneue, LONDON</useAddress>
+        <pricetext>Offers In Excess Of</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>A handsome Georgian style residence offering substantial accommodation on a plot approaching three quarters of an acre, enjoying an excellent location close to the heart of Virginia Water village. Bel Air is a uniquely designed home which was completed for the current owner in 2009; the property boasts excellent, well planned accommodation on all four storeys and in our opinion the architectural design of the facade is simply exquisite. Property such as this is a very rare commodity. </summaryDescription>
+      </property>
+      <property id="258204" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;115,950" priceVal="115950" currency="GBP" rentalperiod="1" updated="16/01/2012" bedrooms="2" bathrooms="1" receptions="1" garages="1" gardens="1" otherrooms="1" specials="0" parkingSpaces="0" metropix="308" virturaltour="" propertyType="7" hits="3234" leaseType="3" EATel="0845 465 2222" period="Modern" sold="0" UO_LA="false" picture="true" dateInstructed="23/08/2011" dateSTC="" latitude="51.6366925331" longitude="-0.1040828596" portfolio="false">
+        <num>2</num>
+        <sa1>Paulin Drive </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N21 1AA</postcode>
+        <locationcodes>(RB),(Ref) </locationcodes>
+        <useAddress>Paulin Drive, LONDON</useAddress>
+        <pricetext />
+        <particularsText>Whiteley</particularsText>
+        <notes />
+        <summaryDescription>A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended.A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended. </summaryDescription>
+      </property>
+      <property id="415010" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;211,500" priceVal="211500" currency="GBP" rentalperiod="1" updated="11/01/2012" bedrooms="2" bathrooms="1" receptions="2" garages="1" gardens="1" otherrooms="2" specials="1" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="8496" leaseType="3" EATel="0845 465 2222" period="Georgian" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.620954" longitude="-0.128656" portfolio="false">
+        <num>Flat 9, Haxby Court</num>
+        <sa1>Felbridge Close </sa1>
+        <sa2 />
+        <town>London</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N11 4BN</postcode>
+        <locationcodes>(LM)(RB)(PS) </locationcodes>
+        <useAddress>Felbridge Close, London</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>Communal Entrance via security entry phone system to&lt;br/&gt;Communal Hall stair top top floor (2nd) and door to communal balcony area to &lt;br/&gt;Own entrance door to&lt;br/&gt;Hallway Coved and smooth ceiling with down lights, doors leading to&lt;br/&gt;Lounge Dinning Room: 20'2" (6.15m) &gt; 17'6" (5.33m) x 12'8" (3.86m) Double glazed window to side and double windows to front with door to own balcony, smooth ceiling, radiators.&lt;br/&gt;&lt;br/&gt;Fitted Kitchen: 9' (2.74m) x 7'7" (2.31m) Double glazed window to side. Range of white modern fitted units with built in hob and oven, stainless steel one and half bowl single drainer with mixer taps, space for washing machine and fridge freezer, tiled floor, part tiles walls, smooth ceiling with down lights.&lt;br/&gt;Bathroom: Double glazed window to sid. Comprising Bath, sower cubicle, low level wc, wash hand basin, chrome towel heater, part tiled walls. &lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="800836" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;220,000" priceVal="220000" currency="GBP" rentalperiod="1" updated="19/01/2012" bedrooms="3" bathrooms="2" receptions="1" garages="0" gardens="1" otherrooms="1" specials="1" parkingSpaces="0" metropix="0" virturaltour="" propertyType="10" hits="123" leaseType="1" EATel="0845 465 2222" period="Not Applicable" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6230058462" longitude="-0.1479944178" portfolio="false">
+        <num>115a</num>
+        <sa1>Brunswick Park Road </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N11 1EA</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Brunswick Park Road, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>.Situated within a pleasant cul-de-sac location this imposing larger than average family home has the benefit of garage approached via own driveway, a ground floor cloakroom, en-suite shower room/wc and the possibility of a hot tub to remain. The living accommodation itself comprises of a lounge measuring 19'5 maximum x 13'0 maximum, a well appointed kitchen/diner measuring 15'6 x 9'6 maximum, dining room and cloakroom to the ground floor. to the first floor there are four bedrooms, a family bathroom/wc and an en-suite shower room off of the master bedroom which measures 14'0 x 10'6. The rear garden measures approximately 30ft x 39ft and houses a hot tub which has the possibility of remaining. Still under builders guarantee and having the benefit of its own garage, extensive double glazing, gas central heating we recommend you view at the earliest possible opportunity in order to avoid disappointment.&lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="1425711" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;267,500" priceVal="267500" currency="GBP" rentalperiod="1" updated="19/01/2012" bedrooms="2" bathrooms="2" receptions="2" garages="0" gardens="0" otherrooms="3" specials="1" parkingSpaces="3" metropix="308" virturaltour="" propertyType="5" hits="381" leaseType="3" EATel="0845 465 2222" period="Georgian" sold="1" UO_LA="false" picture="true" dateInstructed="12/10/2011" dateSTC="" latitude="51.63667" longitude="-0.130823" portfolio="false">
+        <num>1</num>
+        <sa1>Cricketers Close </sa1>
+        <sa2>Southgate </sa2>
+        <town>London</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(M1)(SJ)(LG)(RB)(AV),pond </locationcodes>
+        <useAddress>Cricketers Close, Southgate, London</useAddress>
+        <pricetext>Offers in the region</pricetext>
+        <particularsText>Evening viewings only</particularsText>
+        <notes />
+        <summaryDescription>The most attractive 1920's style extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. </summaryDescription>
+      </property>
+      <property id="1022444" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;285,000" priceVal="285000" currency="GBP" rentalperiod="1" updated="28/10/2011" bedrooms="3" bathrooms="1" receptions="1" garages="1" gardens="1" otherrooms="1" specials="0" parkingSpaces="3" metropix="609835" virturaltour="609835" propertyType="5" hits="3739" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="0" UO_LA="true" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.632747" longitude="-0.131577" portfolio="false">
+        <num>Flat 2, Heritage House</num>
+        <sa1>42 Chase Side </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 5BT</postcode>
+        <locationcodes>(GP)(TC)(RB) </locationcodes>
+        <useAddress>42 Chase Side, LONDON</useAddress>
+        <pricetext>OIRO</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>Located in this tree lined road approximately ten minutes walk to St Albans Abbey BR Station.  Offered in excellent decorative order and recently refurbished by its current owners, accommodation comprises of: Split level reception rooms, downstrairs cloakroom, extended fitted kitchen/breakfast room. On the first floor, the property has 3 double bedrooms, two fitted bath/shower rooms (one ensuite). It has a 100' garden with double garage to side and off street parknig for 3 vehicles.&lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="871282" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;287,950" priceVal="287950" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="2" bathrooms="1" receptions="2" garages="1" gardens="2" otherrooms="5" specials="1" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="3836" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6325933229" longitude="-0.1288186887" portfolio="false">
+        <num>43</num>
+        <sa1>Chase Side </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 5PB</postcode>
+        <locationcodes>(TC)(RB)(AV)(PS) </locationcodes>
+        <useAddress>Chase Side, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes>&#163;250000 to &#163;350000</notes>
+        <summaryDescription>In grounds of almost three-quarters of an acre with far-reaching views over fields to the rear, this very spacious family home dates, we are told, from the 1950's and was substantially added to in the 1980's. There is now accommodation which has the flexibility to be used as one large house or as a house with up to two annexes. </summaryDescription>
+      </property>
+      <property id="1657526" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;295,000" priceVal="295000" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="3" bathrooms="1" receptions="1" garages="0" gardens="1" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="1848" leaseType="3" EATel="0845 465 2222" period="Older" sold="1" UO_LA="false" picture="true" dateInstructed="08/12/2009" dateSTC="" latitude="51.6381000931" longitude="-0.1358177358" portfolio="false">
+        <num>19</num>
+        <sa1>Chase Road </sa1>
+        <sa2>Roundbush </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Chase Road, Roundbush, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>A most attractive period extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. On the first floor there are five bedrooms, the master bedroom has an en suite shower room and there is a super family bathroom. </summaryDescription>
+      </property>
+      <property id="462648" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;315,000" priceVal="315000" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="3" bathrooms="1" receptions="2" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="1" metropix="308" virturaltour="" propertyType="5" hits="3208" leaseType="3" EATel="0845 465 2222" period="Period" sold="1" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6424866741" longitude="-0.186223924" portfolio="false">
+        <num>50</num>
+        <sa1>Firs Lane </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N21 3ES</postcode>
+        <locationcodes>(LM)(TC)(RB) </locationcodes>
+        <useAddress>Firs Lane, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes>needs renovation</notes>
+        <summaryDescription>A beautifully presented and spacious detached family home for sale with indoor pool complex, on the prestigious St George's Hill Estate. In all about 1.25 acres.This magnificent chateau-style residence of grand proportions extends to about 8,500 square feet and has been built to a high specification with an exacting attention to detail.&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="262452" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;320,000" priceVal="320000" currency="GBP" rentalperiod="1" updated="28/10/2011" bedrooms="3" bathrooms="1" receptions="1" garages="1" gardens="1" otherrooms="3" specials="0" parkingSpaces="1" metropix="0" virturaltour="" propertyType="5" hits="3697" leaseType="3" EATel="0845 465 2222" period="Modern" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6279616877" longitude="-0.1203405192" portfolio="false">
+        <num>15</num>
+        <sa1>Greenway </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 6NN</postcode>
+        <locationcodes>(GP)(TC)(RB) </locationcodes>
+        <useAddress>Greenway, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>Albury Hill was built we understand, approximately 12 years ago, to a traditional Regency style with many elegant and classical features. This extremely spacious and luxury mansion has been thoughtfully designed and planned with high ceilings and large multipaned sash windows, well suited for family life and entertaining.&lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="862250" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;365,000" priceVal="365000" currency="GBP" rentalperiod="1" updated="17/01/2012" bedrooms="4" bathrooms="1" receptions="2" garages="1" gardens="0" otherrooms="3" specials="1" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="3524" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.57518" longitude="-4.015871" portfolio="false">
+        <num>50</num>
+        <sa1>Firs Lane </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N21 3ES</postcode>
+        <locationcodes>(GP)(TC)(RB)(AV) </locationcodes>
+        <useAddress>Firs Lane, LONDON</useAddress>
+        <pricetext>offers in region of</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>This substantial detached residence is situated along one of Camberley's most sought after locations, also set within a mature two thirds of an acre plot with landscaped gardens. The property consists from a living room, dining room, 18' family room, 15' kitchen/breakfast room, utility room, two cloakrooms, five bedrooms, family bathroom and separate W.C. Externally the grounds boast from a detached garage, driveway with also the potential to extend </summaryDescription>
+      </property>
+      <property id="1913558" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;395,000" priceVal="395000" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="4" bathrooms="1" receptions="2" garages="1" gardens="0" otherrooms="2" specials="0" parkingSpaces="0" metropix="308" virturaltour="" propertyType="5" hits="1613" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="23/08/2010" dateSTC="" latitude="51.663656" longitude="-0.184716" portfolio="false">
+        <num>2</num>
+        <sa1>Radcliffe Road </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N21 2SS</postcode>
+        <locationcodes>(M1)(GP)(RB),(SH) </locationcodes>
+        <useAddress>Radcliffe Road, LONDON</useAddress>
+        <pricetext />
+        <particularsText>Weekend viewings only</particularsText>
+        <notes />
+        <summaryDescription>A unique, visually appealing and superbly positioned detached house enjoying tremendous private gardens. The tranquil location is on the fringe of Tarporley Village. Sympathetically upgraded and improved Grade II listed accommodation comprising entrance hall, contemporary dining area leading off the bespoke breakfast kitchen, living room with wood burning stove set in a Cheshire brick chimney, sitting room &amp; w/c. First Floor: Master bedroom with views over garden via a balcony area &amp; en-suite shower room, 2nd bedroom with en-suite shower facility, 2 further bedrooms and family bathroom. Outside: Gravelled driveway and detached double garage. Outstanding formal gardens. Incorporated within the grounds is a converted detached large barn, offering external living accommodation. </summaryDescription>
+      </property>
+      <property id="393772" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;395,495" priceVal="395495" currency="GBP" rentalperiod="1" updated="10/11/2011" bedrooms="3" bathrooms="2" receptions="3" garages="0" gardens="1" otherrooms="3" specials="4" parkingSpaces="1" metropix="0" virturaltour="" propertyType="70" hits="3541" leaseType="2" EATel="0845 465 2222" period="Post War" sold="1" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="52.6059156552" longitude="-1.0785216288" portfolio="false">
+        <num>3</num>
+        <sa1>Avenue Road </sa1>
+        <sa2>test </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4EE</postcode>
+        <locationcodes>(TC)(RB)(AV) </locationcodes>
+        <useAddress>Avenue Road, test, LONDON</useAddress>
+        <pricetext>offers in the region of</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>A great opportunity to aquire this post war public house with accomadation with 3 bedrooms above.The premises has recently undergone significant modernisation to both the bar and restraunt areas.This is a free house which has superb public gardens with large patio area and car park for up to approx 20 cars. </summaryDescription>
+      </property>
+      <property id="1062005" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;400,995" priceVal="400995" currency="GBP" rentalperiod="1" updated="02/11/2011" bedrooms="3" bathrooms="1" receptions="2" garages="1" gardens="1" otherrooms="5" specials="2" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="4259" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6166696571" longitude="-0.1453636034" portfolio="false">
+        <num>27</num>
+        <sa1>Stewards Holte Walk </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N11 1NY</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Stewards Holte Walk, LONDON</useAddress>
+        <pricetext>Offers Above:</pricetext>
+        <particularsText />
+        <notes>fixtures and fittings to be included in sale</notes>
+        <summaryDescription>Situated in arguably the most sought after road in Fleet, this character 5 bedroom house which also benefits from a 1 bedroom annexe, has the main family accommodation over three floors to include 3 spacious reception rooms, well fitted kitchen/breakfast room, 2 family bathrooms and 5 bedrooms. The annexe comprises bedroom, modern kitchen, bathroom and living room with gas central heating. The whole property benefits from double glazing and central heating with radiators. Quietly situated in a tree lined avenue, the property sits on a one acre plot offering an extremely high level of privacy provided by mature trees and hedging and is within walking distance of Fleet town centre with its extensive range of shopping and leisure facilities, local schools and is approximately 1.75 miles from Fleet mainline station (London Waterloo from 43 minutes). &lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="1680978" eaid="398" bid="603" rescomnew="1" featured="true" price="&#163;499,995" priceVal="499995" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="4" bathrooms="1" receptions="2" garages="0" gardens="1" otherrooms="2" specials="1" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="2347" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="18/01/2010" dateSTC="" latitude="51.6420965831" longitude="-0.2194813275" portfolio="false">
+        <num>6</num>
+        <sa1>Partridge Close </sa1>
+        <sa2 />
+        <town>BARNET</town>
+        <city />
+        <county>Hertfordshire</county>
+        <country />
+        <postcode>EN5 2DT</postcode>
+        <locationcodes>(RB)(AV) </locationcodes>
+        <useAddress>Partridge Close, BARNET, Hertfordshire</useAddress>
+        <pricetext>offers in region of</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>The property is located approximately 1.5 miles from the city centre in a peaceful backwater just off London Road. Fast and frequent trains leave St Albans city station linking with Kings Cross/St Pancras to the city, Gatwick and beyond, as well as connections via Eurostar to the continent. Road users enjoy easy access to the M1, M25 and the A1(M) and to the airports at Heathrow, Luton and Stansted. &lt;br/&gt;The city centre with its wealth of amenities including shopping, leisure, activities and excellent state and public schools is close at hand.&lt;br/&gt;&lt;br/&gt;The property is approached via a gravel driveway. The house is set back and screened from the road by mature trees and shrubs. The gardens are arranged for ease of maintenance and laid principally to lawn with hedge and tree lined borders and there is access to Foxcroft. To the north east there is a garden store with electricity supply and to the south west there is a double garage block.&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="1680980" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;515,000" priceVal="515000" currency="GBP" rentalperiod="1" updated="24/11/2011" bedrooms="3" bathrooms="1" receptions="2" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="1" metropix="0" virturaltour="v tour" propertyType="5" hits="3188" leaseType="3" EATel="0845 465 2222" period="Period" sold="1" UO_LA="false" picture="true" dateInstructed="18/01/2010" dateSTC="" latitude="40.446981" longitude="-3.735378" portfolio="false">
+        <num>1</num>
+        <sa1>Ivere Drive </sa1>
+        <sa2>New Barnet </sa2>
+        <town>BARNET</town>
+        <city />
+        <county>Hertfordshire</county>
+        <country />
+        <postcode>EN5 1AS</postcode>
+        <locationcodes>(LM)(TC) </locationcodes>
+        <useAddress>Ivere Drive, New Barnet, BARNET, Hertfordshire</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes>needs renovation</notes>
+        <summaryDescription>A much sort after street, this top floor flat has two double bedrooms, decent sized living room with french windows to a roof terrace, a seperate kitchen and a hall way area.On a much desired street, this top floor flat has two double bedrooms, decent sized living room with french windows to a roof terrace, a seperate kitchen and a hall way area. </summaryDescription>
+      </property>
+      <property id="1345636" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;520,000" priceVal="520000" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="3" bathrooms="2" receptions="3" garages="0" gardens="2" otherrooms="4" specials="1" parkingSpaces="2" metropix="0" virturaltour="" propertyType="10" hits="5981" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="14/10/2008" dateSTC="" latitude="51.6381000931" longitude="-0.1358177358" portfolio="false">
+        <num>24</num>
+        <sa1>The Lanes </sa1>
+        <sa2>Southgate </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>The Lanes, Southgate, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>A beautifully presented, detached period family home set in roughly three and three quarter acres of established gardens &amp; adjoining fields. There is also a charming, detached two bedroom, Gower stone self contained cottage in the grounds, ideal for letting or additional accommodation. Located in one of South Gowers' most spectacular settings, commanding breathtaking, panoramic coastal views to include the sweep of Oxwich bay and point, the top of Great Tor and across to the North Devon coastline on a clear day. East and west Cottage offers an idyllic lifestyle for a family wishing to live in Gower, perhaps with horses or looking to pursue various water sports. The charming accommodation comprises reception hall, cloakroom, super, light filled sitting room with stunning views, stunning garden room with breathtaking views and a contemporary fire, dining room, tastefully appointed kitchen/ Breakfast room and a study on the ground floor. Spacious master bedroom with ensuite, five/six further bedrooms and two bathrooms on the first floor. </summaryDescription>
+      </property>
+      <property id="1217869" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;525,000" priceVal="525000" currency="GBP" rentalperiod="1" updated="28/10/2011" bedrooms="3" bathrooms="2" receptions="3" garages="1" gardens="2" otherrooms="3" specials="1" parkingSpaces="4" metropix="0" virturaltour="" propertyType="5" hits="2744" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="16/04/2009" dateSTC="" latitude="51.6390903491" longitude="-0.1415579762" portfolio="false">
+        <num>Kadeem</num>
+        <sa1>Monkfrith Avenue </sa1>
+        <sa2>Southgate </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4PT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Monkfrith Avenue, Southgate, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>This substantial detached house has been thoughtfully extended and improved by the present owners to provide excellent family accommodation arranged over two floors, complemented externally by a pleasant mature rear garden. The layout has been designed with the family in mind with the principle reception room, kitchen / family room both overlooking and opening directly onto the rear garden. On the ground floor the property further enjoys a large playroom, ideal for children, a ground floor cloakroom and spacious utility room. On the first floor there are five bedrooms, two of which are en-suite and a further family bathroom. The property is nicely set back from the road with a large sweeping driveway and a garage to the side. Beaumont Avenue is a sought after and established residential location which due to its close proximity to nearby local schooling to include Beaumont secondary school and Oakwood junior school makes its a highly prized address for families. The mainline station with regular trains into London St Pancras is just over a mile away. </summaryDescription>
+      </property>
+      <property id="2069973" eaid="398" bid="603" rescomnew="1" featured="true" price="&#163;525,000" priceVal="525000" currency="GBP" rentalperiod="1" updated="24/11/2011" bedrooms="4" bathrooms="3" receptions="2" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="0" metropix="0" virturaltour="" propertyType="5" hits="892" leaseType="1" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="08/02/2011" dateSTC="" latitude="51.5749884887" longitude="0.1863172319" portfolio="false">
+        <num>1</num>
+        <sa1>Broadfields Avenue </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N21 1AB</postcode>
+        <locationcodes>(RB) </locationcodes>
+        <useAddress>Broadfields Avenue, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>Offering superb and stylishly modernised accommodation throughout, this splendid Georgian townhouse lies close to the city centre and within walking distance of the mainline station to London. Of significant historical importance- the house carries a grade II listing -and enjoying many features of the era, this versatile property is arranged over three floors and includes open fireplaces, panelled doors, sash windows, polished timber or quarry tiled floors to some rooms, together with thoughtfully added contemporary features such as a beautiful kitchen, bathroom and shower room. Offering impressive and airy living space throughout, the house occupies a south west facing plot and includes the additional benefit of off street parking to the front - the house is set well back from the road - and has a detached garage to the rear. &lt;br/&gt;The restoration of this important property resulted in a 'Civic Society' Commendation in 2008 - and needs viewing to fully appreciate the sensitivity used in its modernisation.&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="968301" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;527,500" priceVal="527500" currency="GBP" rentalperiod="1" updated="24/11/2011" bedrooms="5" bathrooms="3" receptions="3" garages="0" gardens="1" otherrooms="3" specials="0" parkingSpaces="2" metropix="0" virturaltour="" propertyType="61" hits="3731" leaseType="6" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6415656707" longitude="-0.1848153991" portfolio="false">
+        <num>1</num>
+        <sa1>Dale Close </sa1>
+        <sa2>New Barnet </sa2>
+        <town>BARNET</town>
+        <city />
+        <county>Hertfordshire</county>
+        <country />
+        <postcode>EN5 1BH</postcode>
+        <locationcodes>(M1)(TC)(RB) </locationcodes>
+        <useAddress>Dale Close, New Barnet, BARNET, Hertfordshire</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>Listed Grade II, being of architectural interest, St Stephen&#8217;s House is an exceptionally well presented family home. Built&lt;br/&gt;in 1738 for Leonard Kidd, an inn keeper. The property is constructed of classical Georgian elevations in mellow red brick under a high pitched tiled roof St Stephen&#8217;s House is&lt;br/&gt;very handsome. Situated on a mature plot of around 0.2 acre this fine home provides light and spacious reception rooms with comfortable bedroom accommodation at first and second floor. Of particular note is the oak panelled reception hall with Tudor style stone fireplace, the high ceilings with detailed cornicing,&lt;br/&gt;the intricately carved fireplace in the drawing room, and large sash windows throughout. The interior design blends period features with today&#8217;s modern living requirements.&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="1348309" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;535,000" priceVal="535000" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="5" bathrooms="2" receptions="2" garages="1" gardens="1" otherrooms="3" specials="1" parkingSpaces="3" metropix="308" virturaltour="" propertyType="5" hits="299" leaseType="3" EATel="0845 465 2222" period="Georgian" sold="1" UO_LA="false" picture="true" dateInstructed="06/07/2011" dateSTC="" latitude="51.693695" longitude="-4.149963" portfolio="false">
+        <num>11</num>
+        <sa1>Lakenheath </sa1>
+        <sa2>Oakwood </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 4RT</postcode>
+        <locationcodes>(M1)(LM),Fishing lake </locationcodes>
+        <useAddress>Lakenheath, Oakwood, LONDON</useAddress>
+        <pricetext />
+        <particularsText>Weekend viewing only</particularsText>
+        <notes />
+        <summaryDescription>A most attractive 1920's style extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. </summaryDescription>
+      </property>
+      <property id="2227293" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;545,000" priceVal="545000" currency="GBP" rentalperiod="1" updated="24/11/2011" bedrooms="5" bathrooms="3" receptions="3" garages="2" gardens="1" otherrooms="3" specials="0" parkingSpaces="0" metropix="308" virturaltour="" propertyType="5" hits="406" leaseType="3" EATel="0845 465 2222" period="New" sold="1" UO_LA="false" picture="true" dateInstructed="04/07/2011" dateSTC="" latitude="52.323117491186" longitude="-0.900181531906128" portfolio="false">
+        <num>1</num>
+        <sa1>Warwick Road </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N11 2SS</postcode>
+        <locationcodes>(CC)(GP)(RB) </locationcodes>
+        <useAddress>Warwick Road, LONDON</useAddress>
+        <pricetext>offers over</pricetext>
+        <particularsText />
+        <notes />
+        <summaryDescription>Currently being built to an exceptional standard by Edenhouse Estates this magnificent five bedroom mansion is approached via a 24 hour manned security lodge which also provides a concierge service. The property is set at the top of the cul-de-sac on this stunning development of just four individual residences.&lt;br/&gt;&lt;br/&gt;The sumptuous accommodation is listed below but includes large entertaining areas, a beautiful living kitchen, magnificent master bedroom suite, and leisure complex with swimming pool which leads onto the large landscaped south facing gardens that back onto open fields and possess beautiful views. There is also a dependant relatives suite and a triple garage.&lt;br/&gt;&lt;br/&gt;The property will be fitted with the latest technology controlling the heating, lighting and sound systems throughout the house, and it will be possible for the Purchaser to interior design the property to their own specification in conjunction with professional kitchen and bathroom designers. The pleasant gardens will be professionally landscaped and have a high degree of privacy. </summaryDescription>
+      </property>
+      <property id="1680985" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;560,000" priceVal="560000" currency="GBP" rentalperiod="1" updated="01/11/2011" bedrooms="3" bathrooms="1" receptions="1" garages="1" gardens="1" otherrooms="4" specials="1" parkingSpaces="1" metropix="24911" virturaltour="" propertyType="54" hits="2171" leaseType="3" EATel="0845 465 2222" period="Modern" sold="1" UO_LA="true" picture="true" dateInstructed="18/01/2010" dateSTC="" latitude="51.6279616877" longitude="-0.1203405192" portfolio="false">
+        <num />
+        <sa1>Greenway </sa1>
+        <sa2>Southgate </sa2>
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 6NN</postcode>
+        <locationcodes>(GP)(TC) </locationcodes>
+        <useAddress>Greenway, Southgate, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>A dormer style detached house situated in this sort after location in west Leicester in the St Davids school catchment area.The property benefits from a spacious lounge,Modern fitted kitchen,3 bedrooms, Mature front and rear gardens and a garage and driveway for off road parking. Close to Darligton. </summaryDescription>
+      </property>
+      <property id="1404958" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;589,950" priceVal="589950" currency="GBP" rentalperiod="1" updated="03/11/2011" bedrooms="5" bathrooms="1" receptions="1" garages="1" gardens="1" otherrooms="2" specials="1" parkingSpaces="1" metropix="0" virturaltour="" propertyType="5" hits="2980" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="1" UO_LA="false" picture="true" dateInstructed="27/01/2009" dateSTC="" latitude="40.413555" longitude="-3.691455" portfolio="false">
+        <num>7</num>
+        <sa1>Underhill </sa1>
+        <sa2 />
+        <town>BARNET</town>
+        <city />
+        <county>Hertfordshire</county>
+        <country />
+        <postcode>EN5 2BB</postcode>
+        <locationcodes>(RB) </locationcodes>
+        <useAddress>Underhill, BARNET, Hertfordshire</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>A handsome, well presented detached family residence in an established residential area close to St Albans' historic city centre and within a short walk of the mainline station (London St Pancras International 20 minutes).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; </summaryDescription>
+      </property>
+      <property id="1352310" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;595,000" priceVal="595000" currency="GBP" rentalperiod="1" updated="01/12/2011" bedrooms="5" bathrooms="3" receptions="2" garages="1" gardens="1" otherrooms="3" specials="1" parkingSpaces="3" metropix="308" virturaltour="" propertyType="62" hits="3833" leaseType="3" EATel="0845 465 2222" period="Victorian" sold="1" UO_LA="false" picture="true" dateInstructed="24/10/2008" dateSTC="" latitude="51.640047" longitude="-0.133775" portfolio="false">
+        <num>2</num>
+        <sa1>Monkfrith Close </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 5NT</postcode>
+        <locationcodes>(TC) </locationcodes>
+        <useAddress>Monkfrith Close, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes />
+        <summaryDescription>A most attractive 1920's style extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. </summaryDescription>
+      </property>
+      <property id="801408" eaid="398" bid="603" rescomnew="1" featured="false" price="&#163;650,000" priceVal="650000" currency="GBP" rentalperiod="1" updated="02/12/2011" bedrooms="4" bathrooms="2" receptions="2" garages="0" gardens="1" otherrooms="2" specials="1" parkingSpaces="0" metropix="609835" virturaltour="" propertyType="5" hits="3765" leaseType="3" EATel="0845 465 2222" period="Not Applicable" sold="0" UO_LA="false" picture="true" dateInstructed="01/01/0001" dateSTC="" latitude="51.6334689402" longitude="-0.1273375967" portfolio="false">
+        <num>247</num>
+        <sa1>Chase Road </sa1>
+        <sa2 />
+        <town>LONDON</town>
+        <city />
+        <county />
+        <country />
+        <postcode>N14 6HF</postcode>
+        <locationcodes>(RB)(PS) </locationcodes>
+        <useAddress>Chase Road, LONDON</useAddress>
+        <pricetext />
+        <particularsText />
+        <notes>A secure property</notes>
+        <summaryDescription>A 4 bedroom period house which has been refurbished to a high standard by the current vendors and benefits from 20' lounge, fitted kitchen with appliances, re-fitted bathroom/w.c and rear garden. Conveniently located for Upminster Bridge Station and all local amenities and offered with the advantage of no onward chain. An internal inspection is strongly recommended. </summaryDescription>
+      </property>
+      <searchParameters minPrice="0" maxPrice="99999999" branchList="" eaid="398" propertyType="" listDefsPropertyType="" bedrooms="0" bathrooms="" receptions="" showSTC="" allAddressFields="" sa1="" sa2="" town="" city="" county="" postcode="" location="" classification="" descending="" perPage="32000" page="1" sessionGUID="50e89e25-5d7b-458f-82db-3f7df5e748bc" />
+    </properties>
+  </propertySearchSales>
+</response>

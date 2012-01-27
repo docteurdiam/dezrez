@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1345636" eaid="398" bid="603" nid="0" valNegID="7775" instNegID="7775" sale="true" instructed="14/10/2008 00:00:00" category="1" featured="false" price="&#163;520,000" priceVal="520000" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:44:31" dateInstructed="14/10/2008" dateSTC="" bedrooms="3" bathrooms="2" instructionLevel="0" receptions="3" leaseType="3" garages="0" gardens="2" otherrooms="4" specials="1" parkingSpaces="2" metropix="0" propertyType="10" period="Not Applicable" brochureApproved="true" hits="5981" latitude="51.6381000931" longitude="-0.1358177358" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="140ece23-07ac-4d3b-b9ed-fa2fa5549ecc">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="45" eer_p="55" eir_c="65" eir_p="75" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">24</num>
+        <sa1 display="true">The Lanes </sa1>
+        <sa2 display="true">Southgate </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>The Lanes, Southgate, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 12:27:16" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="4/11/2008 17:22:03" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="4/11/2008 17:21:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="4/11/2008 17:22:03" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="4/11/2008 17:21:04" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="4/11/2008 17:23:36" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="4/11/2008 17:23:36" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="8" updated="4/11/2008 17:23:36" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=8&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="9" updated="4/11/2008 17:23:36" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=9&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="10" updated="28/10/2011 12:25:56" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1345636&amp;PhotoID=10&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=45&amp;Potential=55&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="12" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=65&amp;Potential=75&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001345636&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A beautifully presented, detached period family home set in roughly three and three quarter acres of established gardens &amp; adjoining fields. There is also a charming, detached two bedroom, Gower stone self contained cottage in the grounds, ideal for letting or additional accommodation. Located in one of South Gowers' most spectacular settings, commanding breathtaking, panoramic coastal views to include the sweep of Oxwich bay and point, the top of Great Tor and across to the North Devon coastline on a clear day. East and west Cottage offers an idyllic lifestyle for a family wishing to live in Gower, perhaps with horses or looking to pursue various water sports. The charming accommodation comprises reception hall, cloakroom, super, light filled sitting room with stunning views, stunning garden room with breathtaking views and a contemporary fire, dining room, tastefully appointed kitchen/ Breakfast room and a study on the ground floor. Spacious master bedroom with ensuite, five/six further bedrooms and two bathrooms on the first floor. </description>
+        <description id="2" summary="false">Entrance Hall, Cloakroom&lt;br/&gt;Drawing Room&lt;br/&gt;Dining Room&lt;br/&gt;Family Room&lt;br/&gt;Breakfast Kitchen, Garden Room, Utility Room&lt;br/&gt;Principal Bedroom with Ensuite Shower&lt;br/&gt;3 Further Bedrooms, Family Bathroom</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="">
+            <feature type="Lobby">
+              <heading>Lobby</heading>
+              <description>Canopied lobby with pillars. Front door</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>8' 8" x 5' 10" (2.64m x 1.78m) Laminate work surfaces with cupboards and drawers under. Matching wall cupboards. Built-in single electric oven, with a four ring electric hob over and extractor hood above. Single bowl, single drainer sink unit with mixer tap. Space for fridge. Space for washing machine. Basket drawer storage. Ceramic tiled floor. Door to:-&lt;br/&gt;</description>
+            </feature>
+            <feature type="Breakfast Room">
+              <heading>Breakfast Room</heading>
+              <description>18' x 13' (5.49m x 3.96m) A super family room with double glazed sliding patio door to garden, with glorious views over to Oxwich point. Granite work tops with white units under. Two integrated fridges. Two integrated freezers. Integrated dishwasher. Integrated microwave. Range master cooker with double oven and 6 ring ceramic hob. Stainless steel 1 &amp; 1/2 bowl, under slung sink with granite drainer, with waste disposal and mixer tap. Porcelanosa floor tiles. Door to:-</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>23' 4" x 8' 1" (7.11m x 2.46m) Double glazed sliding patio doors to front. Windows to front and side. Dado rail.</description>
+            </feature>
+            <feature type="Wet Room">
+              <heading>Wet Room</heading>
+              <description>Fully tiled walls and floor. Shower. Vanity wash hand basin. Low level wc.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Mezzanine Bathroom</heading>
+              <description>14' 6" x 11' 8" (4.42m x 3.56m) Floor measurements. Velux window to rear with fabulous views to Oxwich bay and Oxwich point. Sloping ceilings</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Window to side. Panel bath with shower attachment and glazed side screen. Low level wc. Vanity wash hand basin. Ceramic tiled floor.</description>
+            </feature>
+            <feature type="Lounge">
+              <heading>Lounge</heading>
+              <description>23' 6" x 16' 6" (7.16m x 5.03m) A fabulous light filled room with the most spectacular coastal views. Double glazed sliding patio doors to garden. Window to front. Door to front. Staircase to first floor. Coal effect gas fire with marble hearth, back plate and a timber surround. Tiled floor.&lt;br/&gt;</description>
+            </feature>
+            <feature type="Conservatory">
+              <heading>Conservatory</heading>
+              <description>11yds x 12' (10.06m x 3.66m) A three bay, timber built outbuilding on a concrete base</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Master Bedroom</heading>
+              <description>22' x 21' 4" (6.71m x 6.50m) A fabulous room, with three large velux windows to the front to enjoy the fantastic panoramic sea views. Double glazed window to side. Door to:-</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>8' 9" x 8' 6" (2.67m x 2.59m) Double glazed sealed unit window to rear with stunning sea views. Ceiling beams. Ceramic tiled floor.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>8' 9" x 8' 6" (2.67m x 2.59m) Double glazed sealed unit window to rear with stunning sea views. Ceiling beams. Ceramic tiled floor.</description>
+            </feature>
+            <feature type="garden">
+              <heading>Rear Garden</heading>
+              <description>The property is accessed through electronically operated wrought iron gates, with intercom, onto a tarmac driveway, creating ample parking and giving access to established lawned gardens, with a strategically planted array of mature plants, shrubs and trees. Full width, South facing sun terrace to relax and admire the breathtaking panoramic sea and country side views that this home has to offer. Steps down to rockeries, fruit trees and a summer house</description>
+            </feature>
+            <feature type="garden">
+              <heading>Grounds</heading>
+              <description>Two gated, hedged and fenced fields. The land would be ideal for equestrian purposes. There is gated vehicular access from the lane and adjacent to the cottage. Both fields are South facing, well drained, with water supply and have direct access to Cefn Bryn.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

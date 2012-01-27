@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1913558" eaid="398" bid="603" nid="19947" valNegID="12217" instNegID="31632" sale="true" instructed="23/8/2010 00:00:00" category="1" featured="false" price="&#163;395,000" priceVal="395000" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:40:16" dateInstructed="23/08/2010" dateSTC="" bedrooms="4" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="1" gardens="0" otherrooms="2" specials="0" parkingSpaces="0" metropix="308" propertyType="5" period="Not Applicable" brochureApproved="true" hits="1613" latitude="51.663656" longitude="-0.184716" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="186" pitch="-4" zoom="1" portfolio="false" sessionGUID="6ae8ad40-f3e7-44ea-a69e-658b55477a8f">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="50" eer_p="65" eir_c="45" eir_p="70" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">2</num>
+        <sa1 display="true">Radcliffe Road </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N21 2SS</postcode>
+        <locationcodes>(M1)(GP)(RB),(SH) </locationcodes>
+        <useAddress>Radcliffe Road, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="15/3/2011 14:00:13" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="23/8/2010 14:59:40" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="23/8/2010 14:59:40" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="23/8/2010 14:59:40" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 11:20:10" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="14/9/2011 16:23:14" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1913558&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=50&amp;Potential=65&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="9" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=45&amp;Potential=70&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001913558&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A unique, visually appealing and superbly positioned detached house enjoying tremendous private gardens. The tranquil location is on the fringe of Tarporley Village. Sympathetically upgraded and improved Grade II listed accommodation comprising entrance hall, contemporary dining area leading off the bespoke breakfast kitchen, living room with wood burning stove set in a Cheshire brick chimney, sitting room &amp; w/c. First Floor: Master bedroom with views over garden via a balcony area &amp; en-suite shower room, 2nd bedroom with en-suite shower facility, 2 further bedrooms and family bathroom. Outside: Gravelled driveway and detached double garage. Outstanding formal gardens. Incorporated within the grounds is a converted detached large barn, offering external living accommodation. </description>
+        <description id="2" summary="false">4 Double bedrooms&lt;br/&gt;Lounge&lt;br/&gt;Bathroom with shower &lt;br/&gt;Dining Room&lt;br/&gt;Modern kitchen</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText>Weekend viewings only</particularsText>
+        <areas>
+          <area title="Fourth Floor">
+            <feature type="bedroom">
+              <heading>Bedroom 1</heading>
+              <description>Main bedroom features fully integrated furniture.</description>
+            </feature>
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Large double garage with space for 2 large cars.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>Main lounge with room for full suite. ideal for wall mounted flat screen television.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>6' 11" x 10' 10" (2.10m x 3.30m) Fully fitted kitchen with all appliences integrated.&lt;br/&gt;finished to a very high standard.</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>6' 11" x 12' 6" (2.10m x 3.80m) Large dining room. Will seat 6-8 dependent on size of furniture.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>Large second bedroom ideal for older children</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>Ideal guest bedroom with room for a double bedroom</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 4</heading>
+              <description>Further guest room. Slightly smaller. would only fit a single bed if furniture is required</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Bathroom comprises double shower, large bath, fully fitted sink, toilet.&lt;br/&gt;Shower is situated off main room to allow use seperate to the main bathroom</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

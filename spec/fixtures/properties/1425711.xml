@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1425711" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="19947" sale="true" instructed="12/10/2011 00:00:00" category="1" featured="false" price="&#163;267,500" priceVal="267500" POA="false" currency="GBP" rentalperiod="1" updated="19/1/2012 11:00:58" dateInstructed="12/10/2011" dateSTC="" bedrooms="2" bathrooms="2" instructionLevel="0" receptions="2" leaseType="3" garages="0" gardens="0" otherrooms="3" specials="1" parkingSpaces="3" metropix="308" propertyType="5" period="Georgian" brochureApproved="true" hits="381" latitude="51.63667" longitude="-0.130823" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="266" pitch="-8" zoom="1" portfolio="false" sessionGUID="d6a43f2b-3feb-4806-9c81-34672e52deb0">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="89" eer_p="90" eir_c="40" eir_p="60" security="0" market="true" sendToPortal="false" ordered="23/3/2010 12:43:59"></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">1</num>
+        <sa1 display="true">Cricketers Close </sa1>
+        <sa2 display="true">Southgate </sa2>
+        <town display="true">London</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(M1)(SJ)(LG)(RB)(AV),pond </locationcodes>
+        <useAddress>Cricketers Close, Southgate, London</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="13/1/2012 10:54:42" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="9/8/2011 10:22:16" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="15/8/2011 14:50:23" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="9/1/2012 11:19:43" category="secondary" categoryID="2" caption="Kitchen/breakfast room">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="15/8/2011 14:50:23" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="5/7/2011 15:32:11" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="7" updated="9/1/2012 11:19:44" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=7&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="8" updated="13/12/2011 11:39:10" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=8&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="9" updated="16/1/2012 16:02:25" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=9&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="10" updated="18/11/2011 14:59:03" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=10&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="11" updated="8/12/2009 12:27:33" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=11&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="12" updated="5/12/2011 14:35:16" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=12&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="13" updated="22/2/2011 14:15:41" category="thumbnails" categoryID="6" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=13&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="14" updated="28/3/2011 12:36:49" category="thumbnails" categoryID="6" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1425711&amp;PhotoID=14&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="metropixID" category="floorplan" categoryID="3">http://content.metropix.com/mtpix/planforprint.aspx?code=308&amp;width=500&amp;rotate=0&amp;format=JPG</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=89&amp;Potential=90&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="17" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=40&amp;Potential=60&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001425711&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">The most attractive 1920's style extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. </description>
+        <description id="2" summary="false">Stunning Period House&lt;br/&gt;Four Double bedrooms&lt;br/&gt;Bathroom + En Suite Shower room&lt;br/&gt;Kitchen / Breakfast room / Play area&lt;br/&gt;Extended&lt;br/&gt;100' Garden (south facing)</description>
+        <description id="3" summary="false">Open House Sunday 21st September. 10am to 2pm.  Call now to confirm your viewing.  Newly refurbished house, available to move into immediately. Stamp duty paid for by sellers.</description>
+        <description id="4" summary="false">Auction Lot: 156</description>
+        <description id="5" summary="false">Auction Catalogue Description:&lt;br/&gt;&lt;br/&gt;The most attractive 1920's style extended detached family home, in need of refurbishing. Accommodation acomprises:-  35' drawing room, plus three further reception rooms and 16' kitchen.  5 bedrooms ( 3 Doubles) and 2 bathrooms (1 ensuite).</description>
+        <description id="6" summary="false">Lease Length:&lt;br/&gt;Break Clause:&lt;br/&gt;Service Charge:&lt;br/&gt;Rateable Value:&lt;br/&gt;Rates Payable:</description>
+        <notes></notes>
+        <charges>lEASE 89 YRS</charges>
+        <pricetext>Offers in the region</pricetext>
+        <particularsText>Evening viewings only</particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="Garden Room">
+              <heading>Garden Room</heading>
+              <description>12' 10" x 12' 10"  2" into bay(3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop space over, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+            <feature type="lovely Front room">
+              <heading>lovely Front room</heading>
+              <description>6' 11" x 5' 11" (2.10m x 1.80m) 50 sq metres Approached via Entrance Porch.  Ornate wood panelling. Under stair storage.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen/Breakfast room</heading>
+              <description>17' 6" x 12' 2" (5.33m x 3.71m) Quality fitted Oak fronted units.  Inset Butler sink. Aga. Quarry tiled floor and marble topped work surfaces.  Space for dining table.</description>
+            </feature>
+            <feature type="Dining Room">
+              <heading>Dining Room</heading>
+              <description>12' 10" x 12' 10" x 12"(3.90m x 3.90m) Fitted with a matching range of base and eye level units with worktop, 1&#189; bowl sink, integrated fridge/freezer and dishwasher, built-in double oven, four ring gas hob, window to rear, window to side, terracotta tiled flooring, door to:</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>14' 2" x 10' 8" (4.32m x 3.25m) Fitted wardrobes. Aspect over garden.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>12' 8" x 10' 10" (3.86m x 3.30m) Built in storage cupboard</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Family Bathroom</heading>
+              <description>Modern suite.  Panelled bath with aquilisa shower attachment. Feature wash hand basin and low flush WC.  Fully tiled.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>En Suite Shower room</heading>
+              <description>Walk in double shower with massage jets. Wash hand basin. Low flush WC. Fully tiled walls.</description>
+            </feature>
+            <feature type="Workshop">
+              <heading>Workshop</heading>
+              <description>Heated outdoor swimming pool.</description>
+            </feature>
+          </area>
+          <area title=" exterior" />
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

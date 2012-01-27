@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="393772" eaid="398" bid="603" nid="0" valNegID="" instNegID="" sale="true" instructed="25/8/2005 00:00:00" category="1" featured="false" price="&#163;395,495" priceVal="395495" POA="false" currency="GBP" rentalperiod="1" updated="10/11/2011 15:24:41" dateInstructed="" dateSTC="" bedrooms="3" bathrooms="2" instructionLevel="0" receptions="3" leaseType="2" garages="0" gardens="1" otherrooms="3" specials="4" parkingSpaces="1" metropix="0" propertyType="70" period="Post War" brochureApproved="false" hits="3541" latitude="52.6059156552" longitude="-1.0785216288" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="fbe7ce32-4e5d-49e2-a561-1de59f32da72">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="34" eer_p="56" eir_c="98" eir_p="65" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">3</num>
+        <sa1 display="true">Avenue Road </sa1>
+        <sa2 display="true">test </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4EE</postcode>
+        <locationcodes>(TC)(RB)(AV) </locationcodes>
+        <useAddress>Avenue Road, test, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="1/11/2011 16:35:50" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="10/11/2011 15:26:17" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="1/11/2011 16:34:38" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="1/11/2011 16:34:38" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="1/11/2011 16:34:38" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="1/11/2011 16:34:38" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=393772&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=34&amp;Potential=56&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=98&amp;Potential=65&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=00393772&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A great opportunity to aquire this post war public house with accomadation with 3 bedrooms above.The premises has recently undergone significant modernisation to both the bar and restraunt areas.This is a free house which has superb public gardens with large patio area and car park for up to approx 20 cars. </description>
+        <description id="2" summary="false">Good sized bedrooms &lt;br/&gt;Gas fired central heating&lt;br/&gt;Enclosed rear garden&lt;br/&gt;</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext>offers in the region of</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground floor">
+            <feature type="Bar Area">
+              <heading>Bar Area</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Restraunt Area">
+              <heading>Restraunt Area</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Snooker Room">
+              <heading>Snooker Room</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Mens toilets">
+              <heading>Mens toilets</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+          </area>
+          <area title="first floor">
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Lounge (Reception)                                ">
+              <heading>Lounge (Reception)                                </heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+            <feature type="Lounge (Reception)                                ">
+              <heading>Lounge (Reception)                                </heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>15' 6" x 14' 9" (4.72m x 4.50m) Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.</description>
+            </feature>
+          </area>
+          <area title="Outside">
+            <feature type="garden">
+              <heading>Garden                                            </heading>
+              <description>Spacious room with window to front elavation Tastefully decorated,double radiator,Tv arial and telephone/internet points, feature fireplace with surround and marble effect hearth.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

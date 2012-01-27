@@ -1,0 +1,26 @@
+#!/usr/bin/env ruby
+$LOAD_PATH.unshift(File.dirname(__FILE__) + '/../lib') unless $LOAD_PATH.include?(File.dirname(__FILE__) + '/../lib')
+require 'dezrez'
+require 'thor'
+
+class App < Thor
+
+  desc "wordpress ENV", "Transfers the dezrez properties to the Wordpress database for the website"
+  def wordpress(env)
+    configuration = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','settings.yml')))
+    settings = configuration[env]
+    Audit.debug(settings)
+    properties = Subscriber.new.pull(settings["image_directory"])
+    Post.clear_existing_listings
+    Post.generate(properties, settings["website"])
+  end
+
+  desc "portals ENV", "Transfers the dezrez properties to Zoopla and FindAProperty"
+  def portals(env)
+    puts "[#{DateTime.now.strftime("%H:%M:%S")}] Starting the portal transfer."
+    Portals.push
+  end
+
+end
+
+App.start

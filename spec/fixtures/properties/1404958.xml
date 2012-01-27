@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1404958" eaid="398" bid="603" nid="0" valNegID="19947" instNegID="19947" sale="true" instructed="27/1/2009 00:00:00" category="1" featured="false" price="&#163;589,950" priceVal="589950" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:40:18" dateInstructed="27/01/2009" dateSTC="" bedrooms="5" bathrooms="1" instructionLevel="0" receptions="1" leaseType="3" garages="1" gardens="1" otherrooms="2" specials="1" parkingSpaces="1" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="2980" latitude="40.413555" longitude="-3.691455" sold="1" deleted="false" UO_LA="false" sendToPortal="true" yaw="0" pitch="5" zoom="0" portfolio="false" sessionGUID="78c074a5-4e4f-4069-a8c5-e77fdc059c3e">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="55" eer_p="89" eir_c="70" eir_p="72" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">7</num>
+        <sa1 display="true">Underhill </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">BARNET</town>
+        <city display="true"></city>
+        <county display="true">Hertfordshire</county>
+        <country display="true"></country>
+        <postcode>EN5 2BB</postcode>
+        <locationcodes>(RB) </locationcodes>
+        <useAddress>Underhill, BARNET, Hertfordshire</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 13:53:08" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 13:52:34" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 13:52:35" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 13:52:35" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 13:52:35" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 13:53:09" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1404958&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=55&amp;Potential=89&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=70&amp;Potential=72&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001404958&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A handsome, well presented detached family residence in an established residential area close to St Albans' historic city centre and within a short walk of the mainline station (London St Pancras International 20 minutes).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; </description>
+        <description id="2" summary="false">Entrance Lobby&lt;br/&gt;Reception Hall&lt;br/&gt;Dining Room&lt;br/&gt;Living Room&lt;br/&gt;Kitchen/Breakfast Room&lt;br/&gt;Laundry Room&lt;br/&gt;Cellar&lt;br/&gt;Master Bedroom with En-Suite Dressing Room&lt;br/&gt;Four Further Bedrooms&lt;br/&gt;Summer House/Studio, Garage, Gardens</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Lower Ground Floor">
+            <feature type="Basement">
+              <heading>Basement</heading>
+              <description>12.10m x 8.10m (13yds 8" x 26' 7")</description>
+            </feature>
+          </area>
+          <area title=" Ground Floor">
+            <feature type="Entrance Hall">
+              <heading>Entrance Hall</heading>
+              <description>Decorative Bezzled glass panel wooden doors to entrance hallway, stairs to first and lower ground floor, ornate coving, 2 cast iron radiators.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Large Fitted Kitchen</heading>
+              <description>8.80m x 3.80m (28' 10" x 12' 6")&lt;br/&gt;Large single glazed window to rear, range of base and wall units with pine worktops, double gas range cooker, plumbing for dish washer, 'Belfast' sink unit, part tiled walls, quarry tiled flooring, radiator, original black cast iron range cooker.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Utility Room</heading>
+              <description>8'00 x 6'2 (2.44m x 1.88m )&lt;br/&gt;Plumbing for washing machine/Tumble dryer/Dishwasher, radiator.</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="Lounge / Dining Room">
+              <heading>Lounge / Dining Room</heading>
+              <description>Refurbished to provide Separate living space, door to hallway/kitchen/storage room, laminate effect flooring, brick/stone fireplace set into wall, radiator.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Master Bathroom</heading>
+              <description>Wooden frame single glazed window to rear with sea views, low level w.c, walk in shower, pedestal wash hand basin, radiator.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom One</heading>
+              <description>19'6 x 15'10 (5.94m x 4.83m )&lt;br/&gt;Single glazed wooden sash window to rear with sea views, restored to good standard, window seat, fitted wardrobes to both recesses, radiator.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom Two</heading>
+              <description>19'6 x 16'3 (5.94m x 4.95m )&lt;br/&gt;Large double arch shaped wooden sash single glazed windows with wood panel shutters, restored to good standard, open feature fireplace</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom Three</heading>
+              <description>19'7 x 10'4 (5.97m x 3.15m )&lt;br/&gt;Single glazed dormer style window to rear with sea views, timber flooring and radiator.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom Four</heading>
+              <description>16'8 x 13'5 (5.08m x 4.09m )&lt;br/&gt;Wooden framed double single glazed sliding sash windows to rear with sea views over Swansea Bay, 2 built in storage cupboards to recesses, radiator, timber flooring.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom Five</heading>
+              <description>19'6 x 16'3 (5.94m x 4.95m )&lt;br/&gt;Double arch shaped wooden frame single glazed sliding sash windows to front (well restored), Radiator</description>
+            </feature>
+          </area>
+          <area title=" Outside">
+            <feature type="garage">
+              <heading>Double Garage</heading>
+              <description>Garage has plumbing for washing machine</description>
+            </feature>
+            <feature type="garden">
+              <heading>Large Lawned Garden</heading>
+              <description>Front Garden - Laid to lawn with mature trees and shrubs, drivweway to garage, off road parking.&lt;br/&gt;Rear Garden - Fully enclosed mature shrubs and trees, some lawn raised, patio area.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

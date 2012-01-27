@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="2069973" eaid="398" bid="603" nid="0" valNegID="36986" instNegID="36985" sale="true" instructed="8/2/2011 00:00:00" category="1" featured="true" price="&#163;525,000" priceVal="525000" POA="false" currency="GBP" rentalperiod="1" updated="24/11/2011 12:16:32" dateInstructed="08/02/2011" dateSTC="" bedrooms="4" bathrooms="3" instructionLevel="0" receptions="2" leaseType="1" garages="1" gardens="1" otherrooms="2" specials="0" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="892" latitude="51.5749884887" longitude="0.1863172319" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="b70a262a-4bb7-4919-a807-8fd65baa5709">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="40" eer_p="45" eir_c="60" eir_p="70" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">1</num>
+        <sa1 display="true">Broadfields Avenue </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N21 1AB</postcode>
+        <locationcodes>(RB) </locationcodes>
+        <useAddress>Broadfields Avenue, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 11:59:44" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 11:59:45" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 11:59:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 11:59:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 11:59:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 11:59:45" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2069973&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=40&amp;Potential=45&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=60&amp;Potential=70&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=002069973&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Offering superb and stylishly modernised accommodation throughout, this splendid Georgian townhouse lies close to the city centre and within walking distance of the mainline station to London. Of significant historical importance- the house carries a grade II listing -and enjoying many features of the era, this versatile property is arranged over three floors and includes open fireplaces, panelled doors, sash windows, polished timber or quarry tiled floors to some rooms, together with thoughtfully added contemporary features such as a beautiful kitchen, bathroom and shower room. Offering impressive and airy living space throughout, the house occupies a south west facing plot and includes the additional benefit of off street parking to the front - the house is set well back from the road - and has a detached garage to the rear. &lt;br/&gt;The restoration of this important property resulted in a 'Civic Society' Commendation in 2008 - and needs viewing to fully appreciate the sensitivity used in its modernisation.&lt;br/&gt; </description>
+        <description id="2" summary="false">Superb Grade II Listed Georgian Townhouse&lt;br/&gt;Spacious Accommodation Arranged Over Three Levels&lt;br/&gt;Fabulous Stylish Interior&lt;br/&gt;City Centre Location&lt;br/&gt;5 Mins Walk Of The Mainline Station&lt;br/&gt;Gargage And Parking&lt;br/&gt;</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false">The accommodation includes: Entrance Level : Hallway; Drawing room 13'7 x 11'11 approx; Sitting Room 13'7 x 12'4 approx; Dining Room 12'4 x 9'7 approx. Study. Lower Ground Floor: Kitchen / Breakfast room 15'9 x 14 approx; Family room / Bedroom Five 14'3 x 13'9, Utility Room, Shower Room. First Floor: Master Bedroom 13'7 x 12'1; Bedroom Two 13'9 x 11'1; Bedroom Three 12'5 x 9'7; Bedroom Four / Dressing Room 9'10 x 5'5; Bathroom. Garage accessed from rear. Newly lawned south facing gardens.</description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground">
+            <feature type="kitchen">
+              <heading>Kitchen/Breakfast Room</heading>
+              <description>12' 6" x 8' 10" (3.81m x 2.70m) Fully fitted kitchen finished to a high standard wth a modern look.</description>
+            </feature>
+            <feature type="Lounge Area">
+              <heading>Lounge Area</heading>
+              <description>27' 7" x 14' 5" (8.40m x 4.40m) Large living area opens out into reception room/drawing room</description>
+            </feature>
+            <feature type="Lounge (ReceptionDrawing Room)">
+              <heading>Lounge (ReceptionDrawing Room)</heading>
+              <description>13' 9" x 24' 11" (4.20m x 7.60m) Reception/drawing room comprises high vaulted ceilings. Idealas a dining room or for entertaining guests.</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom 3</heading>
+              <description>9' 6" x 10' 2" (2.90m x 3.10m) Smallest of the bedrooms. Still a good size. Ideal as a guest bedroom.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 4</heading>
+              <description>14' 5" x 12' 2" (4.40m x 3.70m) bedroom four is a larger guest bedroom. Ideal for entertaining a family. room for a double bed and cot/single bed if required.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Family Bathroom</heading>
+              <description>Main Family bathroom comprises bath and shower, toilet and sink.&lt;br/&gt;Heated towel rail also fitted.</description>
+            </feature>
+          </area>
+          <area title=" Second Floor">
+            <feature type="bedroom">
+              <heading>Master bedroom</heading>
+              <description>30' 2" x 12' 10" (9.20m x 3.90m) Large master bedroom with fully fitted wardrobes throughout. Room for plenty of furniture if required.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>En Suite Bathroom</heading>
+              <description>En-suite bathroom for the master bedroom. Comprises shower, toilet and sink. Decorated to a high standard</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom 2</heading>
+              <description>23' 4" x 10' 10" (7.10m x 3.30m) Spacious second bedroom. Ideal for guests with fully fitted wardrobes.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>En Suite Showerroom</heading>
+              <description>En-suite shower for bedroom 2.</description>
+            </feature>
+          </area>
+          <area title=" Exterior">
+            <feature type="garage">
+              <heading>Garage</heading>
+              <description>Double garage which is located across the courtyard.</description>
+            </feature>
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description>The rear garden looks out across open greenbelt pasture land providing an unusual setting so close to such major business and shopping centers. the front area is the shingle courtyard servicing these 'Cheshire Farm' barn conversions.</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

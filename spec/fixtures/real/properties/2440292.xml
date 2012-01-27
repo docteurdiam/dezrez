@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="E1D57034-6C07-44C4-A458-425CAE9D9247">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <CustomLogoURL>Default</CustomLogoURL>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ConveyancingCaseDetails="False" RegisterWithBranch="False" ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="2440292" eaid="1322" bid="2104" nid="0" valNegID="41689" instNegID="41689" sale="false" instructed="23/1/2012 00:00:00" category="1" featured="true" price="&#163;845" priceVal="845" POA="false" currency="GBP" rentalperiod="3" updated="23/1/2012 13:23:14" dateInstructed="23/01/2012" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="3" receptions="1" leaseType="1" garages="0" gardens="1" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="1" latitude="0" longitude="0" sold="0" deleted="false" UO_LA="false" sendToPortal="true" furnished="true" pets="1" children="0" smoking="1" students="1" sharers="1" availableTenancies="255" availableTo="23/01/2012 00:00:00" availableForm="23/01/2012 00:00:00" minLeasePeriod="0" maxLeasePeriod="0" portfolio="false" sessionGUID="4ead8c1b-a0a9-4b78-b9e9-00e46ade9c28">
+      <branch>
+        <name>Kilburn</name>
+        <tel>0207 078 1110</tel>
+        <email>info@diamondresidential.co.uk</email>
+        <address>
+          <sa1>254 Belsize Road</sa1>
+          <sa2>Kilburn</sa2>
+          <town></town>
+          <city>London</city>
+          <county></county>
+          <country></country>
+          <postcode>NW6 4BT</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="0" eer_p="0" eir_c="0" eir_p="0" security="5" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">Flat 1, Matlock Court</num>
+        <sa1 display="true">45 Abbey Road </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>NW8 0AB</postcode>
+        <locationcodes>(1) </locationcodes>
+        <useAddress>45 Abbey Road, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="23/1/2012 13:21:03" category="primary" categoryID="1" caption="Reception">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440292&amp;PhotoID=1&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="2" updated="23/1/2012 13:21:04" category="secondary" categoryID="2" caption="bed 1">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440292&amp;PhotoID=2&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="3" updated="23/1/2012 13:21:04" category="secondary" categoryID="2" caption="Bed 2">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440292&amp;PhotoID=3&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="4" updated="23/1/2012 13:21:04" category="secondary" categoryID="2" caption="Bed 3">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440292&amp;PhotoID=4&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <picture id="5" updated="23/1/2012 13:21:04" category="secondary" categoryID="2" caption="Bathroom">http://data.dezrez.com/PictureResizer.ASP?PropertyID=2440292&amp;PhotoID=5&amp;AgentID=1322&amp;BranchID=2104</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=002440292&amp;Template=PortalBrochure&amp;eaid=1322</document>
+      </media>
+      <text>
+        <description id="1" summary="true">Diamond residential is delighted to offer this bright, modern and spacious newly 3 double bedroom property in this period conversion on the famous Abbey Road. The property has high ceilings, wooden floors throughout and has a good standard of decorative finish. The property is on the raised ground floor with use of communal gardens. The property comprises of a good size reception, fully fitted kitchen, modern bathroom, three double bedrooms with plenty of built in storage moments from SJW high street and all local amenities with excellent transport links. Available now furnished or unfurnished. </description>
+        <description id="2" summary="false"></description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="">
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description />
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description />
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description />
+            </feature>
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description />
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

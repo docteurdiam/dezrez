@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1680978" eaid="398" bid="603" nid="0" valNegID="29562" instNegID="29562" sale="true" instructed="18/1/2010 00:00:00" category="1" featured="true" price="&#163;499,995" priceVal="499995" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:28:35" dateInstructed="18/01/2010" dateSTC="" bedrooms="4" bathrooms="1" instructionLevel="0" receptions="2" leaseType="3" garages="0" gardens="1" otherrooms="2" specials="1" parkingSpaces="0" metropix="0" propertyType="5" period="Not Applicable" brochureApproved="true" hits="2347" latitude="51.6420965831" longitude="-0.2194813275" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="0842e00a-0bc8-4b77-9035-91e0fee8e0b4">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="55" eer_p="65" eir_c="45" eir_p="60" security="0" market="true" sendToPortal="false" ordered="">http://www.dezrez.com</hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">6</num>
+        <sa1 display="true">Partridge Close </sa1>
+        <sa2 display="true"> </sa2>
+        <town display="true">BARNET</town>
+        <city display="true"></city>
+        <county display="true">Hertfordshire</county>
+        <country display="true"></country>
+        <postcode>EN5 2DT</postcode>
+        <locationcodes>(RB)(AV) </locationcodes>
+        <useAddress>Partridge Close, BARNET, Hertfordshire</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="27/10/2011 11:47:45" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680978&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="27/10/2011 11:47:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680978&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="27/10/2011 11:47:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680978&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="27/10/2011 11:47:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680978&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="27/10/2011 11:47:45" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1680978&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=55&amp;Potential=65&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="7" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=45&amp;Potential=60&amp;Rotate=0&amp;width=500</picture>
+        <document category="HIP_Link">http://www.dezrez.com</document>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001680978&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">The property is located approximately 1.5 miles from the city centre in a peaceful backwater just off London Road. Fast and frequent trains leave St Albans city station linking with Kings Cross/St Pancras to the city, Gatwick and beyond, as well as connections via Eurostar to the continent. Road users enjoy easy access to the M1, M25 and the A1(M) and to the airports at Heathrow, Luton and Stansted. &lt;br/&gt;The city centre with its wealth of amenities including shopping, leisure, activities and excellent state and public schools is close at hand.&lt;br/&gt;&lt;br/&gt;The property is approached via a gravel driveway. The house is set back and screened from the road by mature trees and shrubs. The gardens are arranged for ease of maintenance and laid principally to lawn with hedge and tree lined borders and there is access to Foxcroft. To the north east there is a garden store with electricity supply and to the south west there is a double garage block.&lt;br/&gt; </description>
+        <description id="2" summary="false">Entrance hall &lt;br/&gt;Cloakroom &lt;br/&gt;2 Sitting rooms&lt;br/&gt;Dining room &lt;br/&gt;Study &lt;br/&gt;Kitchen/breakfast room/family room&lt;br/&gt;Utility room&lt;br/&gt;Master bedroom with ensuite bathroom &lt;br/&gt;4 further bedrooms&lt;br/&gt;2 Family bathrooms &lt;br/&gt;Sauna&lt;br/&gt;| Mature gardens and grounds with access to Foxcroft recreation ground | Garage block and store&lt;br/&gt;</description>
+        <description id="3" summary="false">From our office in Gosport High Street, proceed along Stoke Road where the post office is.</description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext>offers in region of</pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground Floor">
+            <feature type="bedroom">
+              <heading>Bedroom Three</heading>
+              <description>8'4 x 7'4 2.54m x 2.24m &lt;br/&gt;&lt;br/&gt;Double glazed window to the rear elevation, single panel radiator, ceiling light</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Suite comprises of panelled bath, low level WC, shower unit housing electric shower, part tiled lwalls, double glazed window tot he side elevation</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>Double panelled radiator, double glazed window to the front elevation, feature fireplace with gas inset fire</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>This lounge has had some work done already skirting boards and ceiling have just been replaced. The room is large and has lots of potential for a great modern living room with all the trimmings.</description>
+            </feature>
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>Brilliant family kitchen recently refurbished.  This leads onto a dinning room whose french windows allows both rooms to be filled with light.</description>
+            </feature>
+          </area>
+          <area title=" First Floor">
+            <feature type="bedroom">
+              <heading>Bedroom Two</heading>
+              <description>11'10 x 9'6 3.61m x 2.90m &lt;br/&gt;&lt;br/&gt;Double glazed window to the rear elevation, ceiling light, single panel radiator</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>This bedroom is the same size as the lounge and has plenty of room to take a kingsize bed. There is a built in wardrobe and a TV point.</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom One</heading>
+              <description>14'9 x 10'10 4.50m x 3.30m &lt;br/&gt;&lt;br/&gt;Single panel radiator, two double glazed windows to the front elevation, over stairs cupboard</description>
+            </feature>
+          </area>
+          <area title=" Outside">
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description>Enter via side door, benefits from power supply</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>

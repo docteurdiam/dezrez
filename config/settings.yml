@@ -1,0 +1,29 @@
+production:
+  website: http://diamondresidential.codeifier.com
+  image_directory: /home/deployment/sites/diamondresidential/wp-content/uploads
+  portals:
+    zoopla:
+      username: diamond
+      password: tpFqD9qd56R7
+      branch_id: 99XX99
+      url: ftp.zoopla.com
+    findaproperty:
+      username: mysql2
+      password:
+      branch_id:
+      url:
+
+development:
+  website: http://diamondresidential.local
+  image_directory: /home/okouam/diamond-residential/wp-content/uploads
+  portals:
+    zoopla:
+      username: diamond
+      password: tpFqD9qd56R7
+      branch_id: 99XX99
+      url: ftp.zoopla.com
+    findaproperty:
+      username: mysql2
+      password:
+      branch_id:
+      url:

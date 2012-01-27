@@ -1,0 +1,20 @@
+development:
+  adapter: mysql2
+  host: localhost
+  password: a7w6P7Sh86
+  username: ufuk_657282_0001
+  database: fuk88b47056webfusio_657282_db1
+
+test:
+  adapter: mysql2
+  host: localhost
+  password: a7w6P7Sh86
+  username: ufuk_657282_0001
+  database: fuk88b47056webfusio_657282_db1
+
+production:
+  adapter: mysql2
+  host: galileo.codeifier.com
+  password: a7w6P7Sh86
+  username: ufuk_657282_0001
+  database: fuk88b47056webfusio_657282_db1

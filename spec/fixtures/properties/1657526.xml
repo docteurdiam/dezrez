@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<response>
+  <apiKey id="1" apikey="DEBF038A-8047-42F8-B0A8-12C35DA33F13">API key ok.</apiKey>
+  <apiKeyMessage>your ip address is 127.0.0.1 and it has been logged against the api key you supplied</apiKeyMessage>
+  <Configuration VisibileToDeveloper="True">
+    <WebServices>
+      <PropertyReport PropertyEvents="True" ViewingReactions="True" MarketingCycles="True" Tenants="True" SalesChain="True" RentalPropertySpecificCriteria="True">
+        <DiaryTotals Enabled="True" Advertised="True" Viewings="True" Mailouts="True" BrochureHandouts="True" StandardLetters="True" WebsiteHits="True" PortalsAdvertisedOn="True" />
+      </PropertyReport>
+      <ApplicantReport>
+        <DiaryTotals TelephoneCalls="True" Emails="True" StandardLetters="True" PropertiesMailedOut="True" Viewings="True" OffersMade="True" SmsMessages="True" MailoutSent="True" BrochureHandout="True" />
+      </ApplicantReport>
+    </WebServices>
+    <Implementation>
+      <MembersArea>
+        <StylesheetUrl>css/style.css</StylesheetUrl>
+        <DezrezUserRegistrationFormType>Both</DezrezUserRegistrationFormType>
+        <DezrezUserRegistrationFormLevel>Full</DezrezUserRegistrationFormLevel>
+        <DezrezUserRegistrationFormRentalPeriod>PerMonth</DezrezUserRegistrationFormRentalPeriod>
+        <RoleList ApplicantReport="True" RegisteredDetails="True" ContactBranch="True" PropertyReport="True" OwningNegotiator="True" />
+        <RegisteredDetails Address="True" PhoneNumbers="True" Email="True" SearchCriteria="True" ContactBranch="True" />
+        <ContactBranch Address="True" PhoneNumbers="True" Email="True" Web="True" ContactForm="True" Map="True" Directions="True" />
+        <PropertyReports ReferenceNumber="True" Price="True" Address="True" Status="True" />
+      </MembersArea>
+      <PropertySearch>
+        <PropertyRequestsStylesheetUrl>../css/style.css</PropertyRequestsStylesheetUrl>
+        <FullDetailsLink>Normal</FullDetailsLink>
+        <PropertySearchDefaultXslt>0</PropertySearchDefaultXslt>
+        <FullDetailsDefaultXslt>0</FullDetailsDefaultXslt>
+        <PortfolioDefaultXslt>0</PortfolioDefaultXslt>
+      </PropertySearch>
+    </Implementation>
+  </Configuration>
+  <propertyFullDetails>
+    <property id="1657526" eaid="398" bid="603" nid="0" valNegID="10181" instNegID="10181" sale="true" instructed="8/12/2009 00:00:00" category="1" featured="false" price="&#163;295,000" priceVal="295000" POA="false" currency="GBP" rentalperiod="1" updated="3/11/2011 10:27:13" dateInstructed="08/12/2009" dateSTC="" bedrooms="3" bathrooms="1" instructionLevel="0" receptions="1" leaseType="3" garages="0" gardens="1" otherrooms="1" specials="0" parkingSpaces="0" metropix="0" propertyType="5" period="Older" brochureApproved="true" hits="1848" latitude="51.6381000931" longitude="-0.1358177358" sold="1" deleted="false" UO_LA="false" sendToPortal="true" portfolio="false" sessionGUID="bba38247-9e75-4589-8930-435c1e70def1">
+      <branch>
+        <name>Docks</name>
+        <tel>0845 465 2222</tel>
+        <email>enquiries@fredsestates.co.uk</email>
+        <address>
+          <sa1>Ethos Building</sa1>
+          <sa2>Kings Rd</sa2>
+          <town>The Docks</town>
+          <city>Swansea</city>
+          <county></county>
+          <country></country>
+          <postcode>SA1 8AS</postcode>
+        </address>
+      </branch>
+      <homeinformationpack>
+        <info>
+          <hip eer_c="35" eer_p="45" eir_c="46" eir_p="75" security="0" market="true" sendToPortal="true" ordered=""></hip>
+        </info>
+      </homeinformationpack>
+      <address>
+        <num display="false">19</num>
+        <sa1 display="true">Chase Road </sa1>
+        <sa2 display="true">Roundbush </sa2>
+        <town display="true">LONDON</town>
+        <city display="true"></city>
+        <county display="true"></county>
+        <country display="true"></country>
+        <postcode>N14 4BT</postcode>
+        <locationcodes>(TC)(RB) </locationcodes>
+        <useAddress>Chase Road, Roundbush, LONDON</useAddress>
+      </address>
+      <media>
+        <picture id="1" updated="28/10/2011 12:52:05" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=1&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="2" updated="28/10/2011 12:52:06" category="primary" categoryID="1" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=2&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="3" updated="28/10/2011 12:52:06" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=3&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="4" updated="28/10/2011 12:52:06" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=4&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="5" updated="28/10/2011 12:52:06" category="secondary" categoryID="2" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=5&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="6" updated="28/10/2011 12:52:06" category="floorplan" categoryID="3" caption="">http://data.dezrez.com/PictureResizer.ASP?PropertyID=1657526&amp;PhotoID=6&amp;AgentID=398&amp;BranchID=603</picture>
+        <picture id="EER" category="EER" categoryID="5" caption="Energy Efficency Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EER&amp;Current=35&amp;Potential=45&amp;Rotate=0&amp;width=500</picture>
+        <picture id="EIR" count="8" category="EIR" categoryID="5" caption="Environmental Impact Rating">http://www.dezrez.com/drapp/Utilities.ASP?WCI=SAP_IMAGE&amp;Type=EIR&amp;Current=46&amp;Potential=75&amp;Rotate=0&amp;width=500</picture>
+        <document category="brochure">http://www.dezrez.com/Drapp/Search.ASP?WCI=PortalBrochure&amp;WCE=001657526&amp;Template=PortalBrochure&amp;eaid=398</document>
+      </media>
+      <text>
+        <description id="1" summary="true">A most attractive period extended detached family home, recently refurbished, decorated, the property is superbly presented throughout. Internally the vast accommodation includes a magnificent 35' drawing room, plus three further reception rooms and a delightful 16' kitchen with attractive wood fronted units and granite worktops. On the first floor there are five bedrooms, the master bedroom has an en suite shower room and there is a super family bathroom. </description>
+        <description id="2" summary="false">Detached house&lt;br/&gt;35' living room&lt;br/&gt;16' kitchen&lt;br/&gt;5 bedrooms&lt;br/&gt;2 bathrooms&lt;br/&gt;120' garden&lt;br/&gt;Garage</description>
+        <description id="3" summary="false"></description>
+        <description id="4" summary="false"></description>
+        <description id="5" summary="false"></description>
+        <description id="6" summary="false"></description>
+        <notes></notes>
+        <charges></charges>
+        <pricetext></pricetext>
+        <particularsText></particularsText>
+        <areas>
+          <area title="Ground">
+            <feature type="kitchen">
+              <heading>Kitchen</heading>
+              <description>12.00m x 10.00m (13yds 4" x 10yds 2' 10") Impressive sized area featuring matching range of eye and base level units with granite worksurfaces, integrated range of appliances comprising Siemens double oven/microwave, integrated Bosch dishwasher, Siemens four ring ceramic hob with extractor hood over, space and recess for American style fridge/freezer, one and a half bowl sink unit with mixer taps, filtered water tap and built in waste disposal unit; central cooking island with cupboards under and granite worksurface and power and points. Attractive Travertine flooring, further range of matching glass display cases, panelled ceiling with recessed controllable lighting, French doors giving access to reception hall.</description>
+            </feature>
+            <feature type="Lounge (Reception)">
+              <heading>Lounge (Reception)</heading>
+              <description>12.00m x 5.00m (13yds 4" x 16' 5") Front aspect double glazed Georgian style windows, polished Oak flooring, fully operational wood burning stove, radiators, door and access into reception hall; further door giving access into kitchen and family room, smooth finish high ceiling with recessed lighting. Wired for home cinema use.</description>
+            </feature>
+          </area>
+          <area title=" First">
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>12.00m x 23.00m (13yds 4" x 25yds 6") Front aspect UPVC windows to front and side, high ceilings access to loft room via step ladder. Overlooking courtyard, radiator, Access to En-Suite.&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>12.00m x 15.00m (13yds 4" x 16yds 1' 3") Situated to the rear of the property is this large bedroom suite with superb panoramic views of the Hampshire/Surrey borders. Double glazed windows to the rear, excellent arrangement of fitted wardrobes and further walk in wardrobe with hanging space and shelving; coved and smooth finish ceiling with recessed lighting, door and access into en-suite bathroom.</description>
+            </feature>
+            <feature type="bathroom">
+              <heading>Bathroom</heading>
+              <description>Suite with enclosed bath and wall mounted shower, low level WC, twin separate wash hand basins with vanity cupboards under, fitted vanity mirror with lighting over, obscure glass window to rear, radiator, coved and textured ceiling</description>
+            </feature>
+            <feature type="bedroom">
+              <heading>Bedroom</heading>
+              <description>13.00m x 23.00m (14yds 8" x 25yds 6") Front aspect, part sloping eaves with further eaves storage, radiator, windows overlooking the front courtyard, coved and textured ceiling.</description>
+            </feature>
+          </area>
+          <area title=" Outside">
+            <feature type="garden">
+              <heading>Garden</heading>
+              <description>An attractive, private landscaped plot with panoramic views, large timber decked area leading to Summerhouse with further steps leading to storage area. Various outside lighting, fitted speakers, two wall mounted fitted canopies. The remainder of the garden is mainly laid to lawn leading to a further sandstone patio with steps leading to decked area, further covered seating area, mature trees and shrubs.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+            </feature>
+          </area>
+        </areas>
+      </text>
+    </property>
+  </propertyFullDetails>
+</response>
