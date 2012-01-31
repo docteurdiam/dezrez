@@ -24,10 +24,38 @@ class Property
     @photos = []
   end
 
+
+  def prop_sub_id
+    case property_type
+      when nil then 0
+      when 1,2,3,8,25,26,27,56 then 1 # Terraced
+      when 4,7,17,18,28,31,32,33,34,54,55,61,2,12,20,26,36 then 3 # Semi-Detached
+      when 5,6,29,30,50,53,65,66 then 4 # Detached
+      when 15,16,39 then 15 # Detached Bungalow
+      when 14,38 then 14 # Semi-Detached Bungalow
+      when 11,12,13,35,36,37 then 13 # Terraced Bungalow
+      when 9,10,43,46,58,59 then 7 # Ground Flat
+      when 9,10,44,45,47,48,58,59 then 8 # Flat
+      when 9,10,58,59,67,72 then 9 # Studio
+      when 71 then 47 # Retirement Property
+      when 9,10,58,59,67,72 then 29 # Penthouse
+      when 49,50,52,68 then 11 # Maisonette
+      when 35,36,37,38,39 then 24 # Chalet
+      when 40,41,42 then 43 # Barn Conversion
+      else 0
+    end
+  end
+
   def self.classify(property_type)
     case property_type
       when 1 then "Terraced (House)"
+      when 2 then "End Terrace (House)"
+      when 3 then "Mid Terrace (House)"
       when 4 then "Semi-Detached (House)"
+      when 5 then "Detached (House)"
+      when 6 then "Remote Detached (House)"
+      when 7 then "End Link (House)"
+      when 8 then "Mid Link (House)"
       when 9 then "Flat"
       when 10 then "Apartment"
       when 25 then "Terraced (Town House)"
@@ -36,23 +64,12 @@ class Property
       when 63 then "Villa (Link-Detached)"
       when 64 then "Villa (Semi-Detached)"
       when 65 then "Village House"
+      when 66 then "Link Detached"
       when 67 then "Studio"
       when 68 then "Maisonette"
       when 71 then "Retirement Flat"
       when 72 then "Bedsit"
-      when 5,6,29,30,50,53,65,66 then "House (Detached)"
-      when 4,7,17,18,28,31,32,33,34,54,55,61,2,12,20,26,36 then "House (Semi-Detached)"
-      when 1,2,3,8,25,26,27,56 then "House (Terraced)"
-      when 15,16,39 then "Bungalow (Detached"
-      when 14,38 then "Bungalow (Semi-Detached)"
-      when 9,10,44,45,47,48,58,59 then "Apartment/Flat (Other Floor)"
-      when 9,10,51,58,59 then "Apartment/Flat (Studio)"
-      when 71 then "Retirement Flat"
-      when 9,10,51,58,59 then "Penthouse"
-      when 49,50,52,68 then "Maisonette"
-      when 35,36,37,38,39 then "Chalet"
-      when 40,41,42 then "Barn Conversion"
-      when 60,70 then "Business/Commercial"
+      when 73 then "Park Home/Mobile Home"
       else
         Audit.debug("No property type could be found with ID #{property_type}")
         nil
@@ -85,7 +102,7 @@ class Property
   def write(branch_id, max_feature_count, max_photo_count)
     feature_subset = write_features(max_feature_count)
     photo_subset = write_photos(branch_id, max_photo_count)
-    contents = "#{id}^#{house_number}^#{address_1}^#{address_2}^^^#{town}^#{postcode_1}^"
+    contents = "#{branch_id}_#{id}^#{house_number}^#{address_1}^#{address_2}^^#{town}^#{postcode_1}^"
     contents = contents + "#{postcode_2}^#{feature_subset}^#{summary}^#{description}^"
     contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^^^2^^"
     contents + "#{photo_subset}^^^^^~\r\n"
@@ -129,10 +146,6 @@ class Property
       end
     end
     contents
-  end
-
-  def prop_sub_id
-    0
   end
 
 end

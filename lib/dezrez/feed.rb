@@ -4,9 +4,13 @@ class Feed
 
   def self.build(properties, branch_id)
     max_image_count = properties.map {|x| x.photos.size}.max
+    Audit.debug("A property in the feed will contain at most #{max_image_count} images.")
     max_feature_count = properties.map {|x| x.features.size}.max
+    max_feature_count = 10 if max_feature_count > 10
+    Audit.debug("A property in the feed will contain at most #{max_feature_count} features.")
     feed = Feed.new
     feed.filename = File.join("/tmp", generate_name(branch_id))
+    Audit.debug("The feed will be located at #{feed.filename}")
     file = File.open(feed.filename, "w")
     file.write "#HEADER#\r\n"
     file.write "Version : 3\r\n"

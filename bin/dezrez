@@ -17,8 +17,10 @@ class App < Thor
 
   desc "portals ENV", "Transfers the dezrez properties to Zoopla and FindAProperty"
   def portals(env)
-    puts "[#{DateTime.now.strftime("%H:%M:%S")}] Starting the portal transfer."
-    Portals.push
+    configuration = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','settings.yml')))
+    settings = configuration[env]
+    Audit.debug(settings)
+    Portals.new(settings).push
   end
 
 end

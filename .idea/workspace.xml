@@ -5,235 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1022444.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1062005.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1217869.7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1345636.9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1348309.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1352310.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1404958.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1425711.9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1657526.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680978.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680980.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1680985.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1913558.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/1919875.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2069973.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/2227293.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/258204.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/262452.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/393772.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/415010.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/462648.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/800836.9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/801408.9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/862250.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/871282.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/photos/968301.6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/dezrez" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/settings.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/feed.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/photo.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/property_parser.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dezrez/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/all_results.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1022444.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1062005.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1217869.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1345636.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1348309.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1352310.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1404958.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1425711.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1657526.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680978.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680980.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1680985.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1913558.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/1919875.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/2069973.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/2227293.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/258204.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/262452.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/393772.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/415010.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/462648.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/800836.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/801408.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/862250.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/871282.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/properties/968301.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/all_results.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2432973.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2434681.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2435833.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436023.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436491.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436529.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436584.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436673.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2436957.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2438301.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2438422.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440292.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440573.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440608.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440666.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440715.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440772.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/fixtures/real/properties/2440887.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/photo_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/portals_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/post_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/property_parser_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/property_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/models/subscriber_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test_dezrez.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Rakefile" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez.rb" afterPath="$PROJECT_DIR$/lib/dezrez.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/audit.rb" afterPath="$PROJECT_DIR$/lib/dezrez/audit.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dezrez" afterPath="$PROJECT_DIR$/bin/dezrez" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/feed.rb" afterPath="$PROJECT_DIR$/lib/dezrez/feed.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/portals.rb" afterPath="$PROJECT_DIR$/lib/dezrez/portals.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/post.rb" afterPath="$PROJECT_DIR$/lib/dezrez/post.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/property.rb" afterPath="$PROJECT_DIR$/lib/dezrez/property.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/subscriber.rb" afterPath="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
     </list>
     <ignored path="dezrez.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -255,98 +30,7 @@
     <favorites_list name="dezrez" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="post_meta.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.75949365">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="feed.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/settings.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="34" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portals.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="16" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="property_parser.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/property_parser.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="57" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subscriber.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/subscriber.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="32" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="property.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="23" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="audit.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -360,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
         <option value="$PROJECT_DIR$/.rspec" />
         <option value="$PROJECT_DIR$/spec/spec_helper.rb" />
         <option value="$PROJECT_DIR$/spec/models/property_parser_spec.rb" />
@@ -370,12 +53,13 @@
         <option value="$PROJECT_DIR$/spec/models/portals_spec.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/logger.rb" />
-        <option value="$PROJECT_DIR$/bin/dezrez" />
-        <option value="$PROJECT_DIR$/lib/dezrez/property.rb" />
-        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/audit.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/post.rb" />
+        <option value="$PROJECT_DIR$/bin/dezrez" />
+        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/feed.rb" />
+        <option value="$PROJECT_DIR$/lib/dezrez/property.rb" />
       </list>
     </option>
   </component>
@@ -406,6 +90,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -518,8 +204,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -847,20 +531,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1440" height="844" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270073" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2174221" sideWeight="0.6729927" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2174221" sideWeight="0.6729927" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270073" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -912,112 +596,88 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="9" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="9" column="9" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/models/portals_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="5" column="24" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="47" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="32" column="47" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/dezrez">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="34" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="23" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dezrez">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="14" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/property_parser.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="57" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/subscriber.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="32" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0">
+        <state line="30" column="32" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2522936">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/property_parser.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="57" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0">
+        <state line="14" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="25" column="46" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.75949365">
+        <state line="108" column="85" selection-start="3492" selection-end="3492" vertical-scroll-proportion="0.41590214">
           <folding />
         </state>
       </provider>
