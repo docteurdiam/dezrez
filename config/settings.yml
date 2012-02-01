@@ -10,7 +10,7 @@ production:
     findaproperty:
       username: mysql2
       password:
-      branch_id:
+      branch_id: 57608
       url:
 
 development:
@@ -25,5 +25,5 @@ development:
     findaproperty:
       username: mysql2
       password:
-      branch_id:
+      branch_id: 57608
       url:

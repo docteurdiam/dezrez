@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dezrez" afterPath="$PROJECT_DIR$/bin/dezrez" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/settings.yml" afterPath="$PROJECT_DIR$/config/settings.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/feed.rb" afterPath="$PROJECT_DIR$/lib/dezrez/feed.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/portals.rb" afterPath="$PROJECT_DIR$/lib/dezrez/portals.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/property.rb" afterPath="$PROJECT_DIR$/lib/dezrez/property.rb" />
@@ -30,7 +31,80 @@
     <favorites_list name="dezrez" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="settings.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/settings.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="40" selection-start="361" selection-end="361" vertical-scroll-proportion="0.2924791">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="85" selection-start="1834" selection-end="1834" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portals.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="47" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photo.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="property.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="28" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dezrez.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dezrez" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/dezrez">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="28" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -49,17 +123,17 @@
         <option value="$PROJECT_DIR$/spec/models/property_parser_spec.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/property_parser.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/settings.yml" />
         <option value="$PROJECT_DIR$/spec/models/portals_spec.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/logger.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/audit.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/post.rb" />
-        <option value="$PROJECT_DIR$/bin/dezrez" />
-        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/feed.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/property.rb" />
+        <option value="$PROJECT_DIR$/bin/dezrez" />
+        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
+        <option value="$PROJECT_DIR$/config/settings.yml" />
       </list>
     </option>
   </component>
@@ -90,8 +164,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="RailsProjectView" />
       <pane id="Favorites" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,11 +283,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.fileTypes" />
     <property name="recentsLimit" value="5" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -530,14 +604,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1440" height="844" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1" y="-5" width="1442" height="906" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2174221" sideWeight="0.6729927" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21711457" sideWeight="0.6729927" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -609,16 +683,6 @@
         <state line="32" column="47" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="150" vertical-scroll-proportion="0.0" />
@@ -627,21 +691,6 @@
     <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/settings.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="20" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/dezrez">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="912" selection-end="912" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/property_parser.rb">
@@ -656,28 +705,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/audit.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2522936">
-          <folding />
-        </state>
+        <state line="11" column="17" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2522936" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/post.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="76" column="49" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/photo.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/feed.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="46" selection-start="1102" selection-end="1102" vertical-scroll-proportion="0.0">
+        <state line="37" column="85" selection-start="1834" selection-end="1834" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/property.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="85" selection-start="3492" selection-end="3492" vertical-scroll-proportion="0.41590214">
+        <state line="88" column="28" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dezrez">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="28" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="47" selection-start="1245" selection-end="1245" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="40" selection-start="361" selection-end="361" vertical-scroll-proportion="0.2924791">
           <folding />
         </state>
       </provider>

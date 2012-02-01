@@ -8,22 +8,24 @@ class Portals
     @config = config
   end
 
-  def push
+  def push(portal)
     properties = Subscriber.new.pull(@config["image_directory"])
-    branch_id = @config["portals"]["zoopla"]["branch_id"]
+    branch_id = @config["portals"][portal]["branch_id"]
     Audit.debug("Creating the feed.")
-    feed = Feed.build(properties, branch_id)
+    feed = Feed.build(properties, branch_id, portal)
     Audit.info "Created the feed #{feed.filename}."
-    zipfile_name = create_zip_archive(feed, properties)
+    zipfile_name = create_zip_archive(feed, properties, portal)
     Audit.info "Created the zip archive #{zipfile_name}."
     transfer(zipfile_name)
   end
 
   private
 
-  def create_zip_archive(feed, properties)
-    branch_id = @config["portals"]["zoopla"]["branch_id"]
-    zipfile_name = File.join("/tmp", branch_id + ".zip")
+  def create_zip_archive(feed, properties, portal)
+    branch_id = @config["portals"][portal]["branch_id"]
+    output_dir = "/tmp/" + portal
+    Dir.mkdir(output_dir) unless File.exists?(output_dir)
+    zipfile_name = File.join(output_dir, branch_id + ".zip")
     File.delete(zipfile_name) if File.exists?(zipfile_name)
     Zip::ZipFile.open(zipfile_name, Zip::ZipFile::CREATE) do |zipfile|
       zipfile.add(File.basename(feed.filename), feed.filename)

@@ -99,10 +99,14 @@ class Property
     end
   end
 
-  def write(branch_id, max_feature_count, max_photo_count)
+  def write(branch_id, max_feature_count, max_photo_count, portal)
     feature_subset = write_features(max_feature_count)
     photo_subset = write_photos(branch_id, max_photo_count)
-    contents = "#{branch_id}_#{id}^#{house_number}^#{address_1}^#{address_2}^^#{town}^#{postcode_1}^"
+    if portal == "zoopla"
+      contents = "#{branch_id}_#{id}^#{house_number}^#{address_1}^#{address_2}^^#{town}^#{postcode_1}^"
+    else
+      contents = "#{branch_id}_#{id}^#{house_number}^#{address_1 + " " + address_2}^^^#{self.locate(location)}^#{postcode_1}^"
+    end
     contents = contents + "#{postcode_2}^#{feature_subset}^#{summary}^#{description}^"
     contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^^^2^^"
     contents + "#{photo_subset}^^^^^~\r\n"

@@ -20,7 +20,8 @@ class App < Thor
     configuration = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','settings.yml')))
     settings = configuration[env]
     Audit.debug(settings)
-    Portals.new(settings).push
+    Portals.new(settings).push("zoopla")
+    Portals.new(settings).push("findaproperty")
   end
 
 end
