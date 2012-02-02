@@ -25,7 +25,7 @@ class Portals
     branch_id = @config["portals"][portal]["branch_id"]
     output_dir = "/tmp/" + portal
     Dir.mkdir(output_dir) unless File.exists?(output_dir)
-    zipfile_name = File.join(output_dir, branch_id + ".zip")
+    zipfile_name = File.join(output_dir, branch_id.to_s + ".zip")
     File.delete(zipfile_name) if File.exists?(zipfile_name)
     Zip::ZipFile.open(zipfile_name, Zip::ZipFile::CREATE) do |zipfile|
       zipfile.add(File.basename(feed.filename), feed.filename)
