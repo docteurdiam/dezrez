@@ -5,11 +5,23 @@ require 'thor'
 
 class App < Thor
 
+  no_tasks do
+    def configure(env)
+      @logger = Logging.logger[self]
+      @logger.add_appenders('stdout', 'logfile')
+      db_config = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','database.yml')))[env]
+      ActiveRecord::Base.establish_connection(db_config)
+      filename = File.join(File.dirname(__FILE__),'../config','settings.yml')
+      raise "Configuration file could not be found in config/settings.yml" unless File.exists?(filename)
+      configuration = YAML::load(File.open(filename))
+      configuration[env]
+    end
+  end
+
   desc "wordpress ENV", "Transfers the dezrez properties to the Wordpress database for the website"
   def wordpress(env)
-    configuration = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','settings.yml')))
-    settings = configuration[env]
-    Audit.debug(settings)
+    settings = configure(env)
+    @logger.info(settings)
     properties = Subscriber.new.pull(settings["image_directory"])
     Post.clear_existing_listings
     Post.generate(properties, settings["website"])
@@ -17,9 +29,8 @@ class App < Thor
 
   desc "portals ENV", "Transfers the dezrez properties to Zoopla and FindAProperty"
   def portals(env)
-    configuration = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','settings.yml')))
-    settings = configuration[env]
-    Audit.debug(settings)
+    settings = configure(env)
+    @logger.info(settings)
     Portals.new(settings).push("zoopla")
     Portals.new(settings).push("findaproperty")
   end

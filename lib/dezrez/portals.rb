@@ -6,16 +6,18 @@ class Portals
 
   def initialize(config)
     @config = config
+    @logger = Logging.logger[self]
+    @logger.add_appenders('stdout', 'logfile')
   end
 
   def push(portal)
     properties = Subscriber.new.pull(@config["image_directory"])
     branch_id = @config["portals"][portal]["branch_id"]
-    Audit.debug("Creating the feed.")
-    feed = Feed.build(properties, branch_id, portal)
-    Audit.info "Created the feed #{feed.filename}."
+    @logger.info("Creating the feed.")
+    feed = Feed.new.build(properties, branch_id, portal)
+    @logger.info "Created the feed #{feed.filename}."
     zipfile_name = create_zip_archive(feed, properties, portal)
-    Audit.info "Created the zip archive #{zipfile_name}."
+    log "Created the zip archive #{zipfile_name}."
     transfer(zipfile_name)
   end
 
@@ -41,13 +43,13 @@ class Portals
   def transfer(filename)
     username = @config["portals"]["zoopla"]["username"]
     password = @config["portals"]["zoopla"]["password"]
-    Audit.debug("Transferring the feed to Zoopla using credentials #{username}/#{password}")
+    @logger.info("Transferring the feed to Zoopla using credentials #{username}/#{password}")
     url = @config["portals"]["zoopla"]["url"]
     ftp = Net::FTP.new
     ftp.connect(url, 21)
     ftp.login(username, password)
     destination = File.basename(filename)
-    Audit.debug("Copying file #{filename} to #{destination}")
+    log("Copying file #{filename} to #{destination}")
     ftp.putbinaryfile(filename, destination)
     ftp.close
   end

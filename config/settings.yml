@@ -15,7 +15,7 @@ production:
 
 development:
   website: http://diamondresidential.local
-  image_directory: /home/okouam/diamond-residential/wp-content/uploads
+  image_directory: /tmp
   portals:
     zoopla:
       username: diamond

@@ -1,16 +1,21 @@
 class Feed
 
+  def initialize
+    @logger = Logging.logger[self]
+    @logger.add_appenders('stdout', 'logfile')
+  end
+
   attr_accessor :filename
 
-  def self.build(properties, branch_id, portal)
+  def build(properties, branch_id, portal)
     max_image_count = properties.map {|x| x.photos.size}.max
-    Audit.debug("A property in the feed will contain at most #{max_image_count} images.")
+    @logger.info("A property in the feed will contain at most #{max_image_count} images.")
     max_feature_count = properties.map {|x| x.features.size}.max
     max_feature_count = 10 if max_feature_count > 10
-    Audit.debug("A property in the feed will contain at most #{max_feature_count} features.")
+    @logger.info("A property in the feed will contain at most #{max_feature_count} features.")
     feed = Feed.new
     feed.filename = File.join("/tmp", generate_name(branch_id))
-    Audit.debug("The feed will be located at #{feed.filename}")
+    @logger.info("The feed will be located at #{feed.filename}")
     file = File.open(feed.filename, "w")
     file.write "#HEADER#\r\n"
     file.write "Version : 3\r\n"
@@ -44,7 +49,7 @@ class Feed
 
   private
 
-  def self.generate_name(branch_id)
+  def generate_name(branch_id)
     "#{branch_id}#{DateTime.now.strftime("%Y%m%d%M%S")}.BLM"
   end
 

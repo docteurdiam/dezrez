@@ -71,7 +71,7 @@ class Property
       when 72 then "Bedsit"
       when 73 then "Park Home/Mobile Home"
       else
-        Audit.debug("No property type could be found with ID #{property_type}")
+        IncludesLogger.debug("No property type could be found with ID #{property_type}")
         nil
     end
   end
@@ -93,7 +93,7 @@ class Property
         when 9 then "Notting Hill"
         when 10 then "Bayswater"
         else
-          Audit.debug("No location could be found with ID #{codes[0].to_i}")
+          IncludesLogger.debug("No location could be found with ID #{codes[0].to_i}")
           nil
       end
     end

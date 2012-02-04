@@ -1,5 +1,6 @@
 source "http://rubygems.org"
 
+gem 'activesupport'
 gem 'ruby-debug19', :require => 'ruby-debug'
 gem 'httparty'
 gem 'activerecord', :require => 'active_record'

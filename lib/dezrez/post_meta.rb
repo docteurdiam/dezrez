@@ -1,5 +1,4 @@
 class PostMeta < ActiveRecord::Base
-  set_table_name "wp_postmeta"
+  self.table_name = "wp_postmeta"
   belongs_to :post
-
 end

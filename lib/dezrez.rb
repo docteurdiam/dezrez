@@ -1,6 +1,32 @@
 require 'active_record'
-db_config = YAML::load(File.open(File.join(File.dirname(__FILE__),'../config','database.yml')))["test"]
-ActiveRecord::Base.establish_connection(db_config)
+require 'logging'
+
+Logging.color_scheme( 'bright',
+   :levels => {
+     :info => :green,
+     :warn => :yellow,
+     :error => :red
+   },
+   :date => :blue,
+   :logger => :cyan,
+   :message => :white
+ )
+
+Logging.appenders.stdout(
+  'stdout',
+  :layout => Logging.layouts.pattern(
+    :pattern => '[%d] %-5l %c: %m\n',
+    :color_scheme => 'bright'
+  )
+)
+
+Logging.appenders.file(
+  'logfile',
+  :filename => '/var/log/dezrez/audit.log',
+  :layout => Logging.layouts.pattern(
+    :pattern => '[%d] %-5l %c: %m\n'
+  )
+)
 
 require 'dezrez/post'
 require 'dezrez/photo'
@@ -12,4 +38,4 @@ require 'dezrez/post_meta'
 require 'dezrez/feed'
 require 'dezrez/version'
 require 'dezrez/subscriber'
-require 'dezrez/audit'
+
