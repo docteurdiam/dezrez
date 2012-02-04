@@ -8,10 +8,10 @@ production:
       branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
-      username: diamond
-      password:  tpFqD9qd56R7
-      branch_id: 57608
-      url: ftp.findaproperty.com
+      username: DiamondRes
+      password:  d94xfhj2
+      branch_id: 51272
+      url: ftp.primelocation.com
 
 development:
   website: http://diamondresidential.local
@@ -23,7 +23,7 @@ development:
       branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
-      username: diamond
-      password: tpFqD9qd56R7
-      branch_id: 57608
-      url: ftp.findaproperty.com
+      username: DiamondRes
+      password: d94xfhj2
+      branch_id: 51272
+      url: ftp.primelocation.com
