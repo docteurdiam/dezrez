@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/dezrez/audit.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/dezrez" afterPath="$PROJECT_DIR$/bin/dezrez" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/settings.yml" afterPath="$PROJECT_DIR$/config/settings.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez.rb" afterPath="$PROJECT_DIR$/lib/dezrez.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/feed.rb" afterPath="$PROJECT_DIR$/lib/dezrez/feed.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/portals.rb" afterPath="$PROJECT_DIR$/lib/dezrez/portals.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/post.rb" afterPath="$PROJECT_DIR$/lib/dezrez/post.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/post_meta.rb" afterPath="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/property.rb" afterPath="$PROJECT_DIR$/lib/dezrez/property.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/subscriber.rb" afterPath="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
     </list>
     <ignored path="dezrez.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +28,26 @@
     <favorites_list name="dezrez" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="portals.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="46" selection-start="1213" selection-end="1213" vertical-scroll-proportion="-18.214285">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/settings.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="45" selection-start="571" selection-end="571" vertical-scroll-proportion="0.45961002">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -56,7 +65,6 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/lib/dezrez/post_meta.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/audit.rb" />
-        <option value="$PROJECT_DIR$/config/settings.yml" />
         <option value="$PROJECT_DIR$/lib/dezrez/includes_logger.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/log.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/logging.rb" />
@@ -64,10 +72,11 @@
         <option value="$PROJECT_DIR$/lib/dezrez/logger.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/post.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/feed.rb" />
-        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez/subscriber.rb" />
         <option value="$PROJECT_DIR$/lib/dezrez.rb" />
         <option value="$PROJECT_DIR$/bin/dezrez" />
+        <option value="$PROJECT_DIR$/lib/dezrez/portals.rb" />
+        <option value="$PROJECT_DIR$/config/settings.yml" />
       </list>
     </option>
   </component>
@@ -507,14 +516,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-5" width="1442" height="906" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257677" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21711457" sideWeight="0.6742323" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21711457" sideWeight="0.6742323" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -619,13 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="65" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/dezrez/post_meta.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="28" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
@@ -675,9 +677,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dezrez/portals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="46" selection-start="1213" selection-end="1213" vertical-scroll-proportion="-18.214285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="413" selection-end="413" vertical-scroll-proportion="0.33426183">
+        <state line="22" column="45" selection-start="571" selection-end="571" vertical-scroll-proportion="0.45961002">
           <folding />
         </state>
       </provider>

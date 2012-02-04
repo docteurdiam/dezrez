@@ -8,10 +8,10 @@ production:
       branch_id: 99XX99
       url: ftp.zoopla.com
     findaproperty:
-      username: mysql2
-      password:
+      username: diamond
+      password:  tpFqD9qd56R7
       branch_id: 57608
-      url:
+      url: ftp.zoopla.com
 
 development:
   website: http://diamondresidential.local
@@ -23,7 +23,7 @@ development:
       branch_id: 99XX99
       url: ftp.zoopla.com
     findaproperty:
-      username: mysql2
-      password:
+      username: diamond
+      password: tpFqD9qd56R7
       branch_id: 57608
-      url:
+      url: ftp.zoopla.com

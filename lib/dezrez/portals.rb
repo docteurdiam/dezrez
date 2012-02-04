@@ -17,8 +17,8 @@ class Portals
     feed = Feed.new.build(properties, branch_id, portal)
     @logger.info "Created the feed #{feed.filename}."
     zipfile_name = create_zip_archive(feed, properties, portal)
-    log "Created the zip archive #{zipfile_name}."
-    transfer(zipfile_name)
+    @logger.info "Created the zip archive #{zipfile_name}."
+    transfer(zipfile_name, portal)
   end
 
   private
@@ -40,16 +40,16 @@ class Portals
     zipfile_name
   end
 
-  def transfer(filename)
-    username = @config["portals"]["zoopla"]["username"]
-    password = @config["portals"]["zoopla"]["password"]
-    @logger.info("Transferring the feed to Zoopla using credentials #{username}/#{password}")
-    url = @config["portals"]["zoopla"]["url"]
+  def transfer(filename, portal)
+    username = @config["portals"][portal]["username"]
+    password = @config["portals"][portal]["password"]
+    @logger.info("Transferring the feed to #{portal.titleize} using credentials #{username}/#{password}")
+    url = @config["portals"][portal]["url"]
     ftp = Net::FTP.new
     ftp.connect(url, 21)
     ftp.login(username, password)
     destination = File.basename(filename)
-    log("Copying file #{filename} to #{destination}")
+    @logger.info("Moving file #{filename} to #{destination} via FTP")
     ftp.putbinaryfile(filename, destination)
     ftp.close
   end
