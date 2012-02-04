@@ -38,6 +38,7 @@ Gem::Specification.new do |s|
     "bin/dezrez",
     "config/database.yml",
     "config/settings.yml",
+    "dezrez.gemspec",
     "lib/dezrez.rb",
     "lib/dezrez/feed.rb",
     "lib/dezrez/photo.rb",
