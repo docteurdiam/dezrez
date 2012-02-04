@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4bdbeac6-6dde-4219-887f-600080237b17" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/settings.yml" afterPath="$PROJECT_DIR$/config/settings.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/dezrez/portals.rb" afterPath="$PROJECT_DIR$/lib/dezrez/portals.rb" />
     </list>
     <ignored path="dezrez.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="settings.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/settings.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="45" selection-start="571" selection-end="571" vertical-scroll-proportion="0.45961002">
+            <state line="25" column="91" selection-start="645" selection-end="645" vertical-scroll-proportion="0.52228415">
               <folding />
             </state>
           </provider>
@@ -686,7 +685,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="45" selection-start="571" selection-end="571" vertical-scroll-proportion="0.45961002">
+        <state line="25" column="91" selection-start="645" selection-end="645" vertical-scroll-proportion="0.52228415">
           <folding />
         </state>
       </provider>

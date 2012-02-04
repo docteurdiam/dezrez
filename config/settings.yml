@@ -5,13 +5,13 @@ production:
     zoopla:
       username: diamond
       password: tpFqD9qd56R7
-      branch_id: 99XX99
+      branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
       username: diamond
       password:  tpFqD9qd56R7
       branch_id: 57608
-      url: ftp.zoopla.com
+      url: ftp.findaproperty.com
 
 development:
   website: http://diamondresidential.local
@@ -20,10 +20,10 @@ development:
     zoopla:
       username: diamond
       password: tpFqD9qd56R7
-      branch_id: 99XX99
+      branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
       username: diamond
       password: tpFqD9qd56R7
       branch_id: 57608
-      url: ftp.zoopla.com
+      url: ftp.findaproperty.com
