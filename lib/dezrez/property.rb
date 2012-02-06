@@ -108,7 +108,7 @@ class Property
       contents = "#{branch_id}_#{id}^#{house_number}^#{address_1} #{address_2.to_s}^^^#{Property.locate(location)}^#{postcode_1}^"
     end
     contents = contents + "#{postcode_2}^#{feature_subset}^#{summary}^#{description}^"
-    contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^^^2^^"
+    contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^0^^2^^"
     contents + "#{photo_subset}^^^^^~\r\n"
   end
 
