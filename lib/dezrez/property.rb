@@ -22,6 +22,8 @@ class Property
   def initialize
     @features = []
     @photos = []
+    @@logger = Logging.logger[self]
+    @@logger.add_appenders('stdout', 'logfile')
   end
 
 
@@ -58,6 +60,8 @@ class Property
       when 8 then "Mid Link (House)"
       when 9 then "Flat"
       when 10 then "Apartment"
+      when 43 then "Ground Floor Purpose Build (Flat)"
+      when 46 then "Ground Floor Converted (Flat)"
       when 25 then "Terraced (Town House)"
       when 53 then "Mansion"
       when 62 then "Villa (Detached)"
@@ -71,7 +75,7 @@ class Property
       when 72 then "Bedsit"
       when 73 then "Park Home/Mobile Home"
       else
-        IncludesLogger.debug("No property type could be found with ID #{property_type}")
+        @@logger.debug("No property type could be found with ID #{property_type}")
         nil
     end
   end
@@ -93,7 +97,7 @@ class Property
         when 9 then "Notting Hill"
         when 10 then "Bayswater"
         else
-          IncludesLogger.debug("No location could be found with ID #{codes[0].to_i}")
+          @@logger.debug("No location could be found with ID #{codes[0].to_i}")
           nil
       end
     end
