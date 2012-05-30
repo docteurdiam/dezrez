@@ -18,7 +18,9 @@ class Property
   attr_accessor :photos
   attr_accessor :featured
   attr_accessor :postcode
-
+  attr_accessor :sale
+  attr_accessor :trans_type_id
+  
   def initialize
     @features = []
     @photos = []
@@ -112,7 +114,7 @@ class Property
       contents = "#{branch_id}_#{id}^#{house_number}^#{address_1} #{address_2.to_s}^^^#{Property.locate(location)}^#{postcode_1}^"
     end
     contents = contents + "#{postcode_2}^#{feature_subset}^#{summary}^#{description}^"
-    contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^0^^2^^"
+    contents = contents + "#{branch_id}^0^#{bedrooms}^#{bathrooms}^#{price}^^#{prop_sub_id}^^^#{display_address}^1^^^^^0^^#{trans_type_id}^^"
     contents + "#{photo_subset}^^^^^~\r\n"
   end
 

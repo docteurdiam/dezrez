@@ -12,6 +12,7 @@ describe Post do
     @property.summary = "this is my summary"
     @property.description = "this is my description"
     @property.display_address = "Latimer Road, Tyining"
+    @property.sale = "false"
   end
 
   describe "when generating posts" do
@@ -21,12 +22,12 @@ describe Post do
     end
 
     it "saves the generated posts" do
-      Post.generate [@property]
+      Post.generate(@property, "http://localhost/diamondresidential/")
       Post.where('post_type = ?', 'listing').count.should == 1
     end
 
     it "saves the associated postmeta" do
-      Post.generate [@property]
+      Post.generate(@property, "http://localhost/diamondresidential/")
       Post.where('post_type = ?', 'listing').first.post_meta.count.should == 15
     end
 

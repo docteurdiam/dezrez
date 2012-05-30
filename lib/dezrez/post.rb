@@ -21,7 +21,7 @@ class Post < ActiveRecord::Base
       post.save!
       post.reload
       post.associate_taxonomy(property.location, 'property_location')
-      post.associate_taxonomy('Rent', 'property_buyorrent')
+      post.associate_taxonomy('#{buyorrent(property.sale)}', 'property_buyorrent')
       post.associate_price_range(property.price)
       property.photos.each do |photo|
           attachment = Post.new
@@ -100,6 +100,17 @@ class Post < ActiveRecord::Base
     ]
     entries.each_index do |i|
       self.post_meta.build(entries[i])
+    end
+  end
+  
+  
+  def buyorrent(value)
+    case value
+      when "true" then "Buy"
+      when "false" then "Rent"
+      else
+        @@logger.debug("The property status Rent or Buy Could not be found")
+        nil
     end
   end
 

@@ -21,6 +21,8 @@ describe PropertyParser do
     property.postcode.should == "N21 1AA"
     property.location.should == "(RB),(Ref) "
     property.display_address.should == "Paulin Drive, LONDON"
+    property.sale.should == "false"
+    property.trans_type_id.should == 2
     property.summary.should == "A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended.A modern end terrace property situated on the sought after huntley homes development in the oadby area of Leicester.The property benefits from 2 good size bedrooms, A spacious lounge / diner, Modern fitted kitchen with built in oven and hob and gas fired central heating.An early appointment to view is strongly recommended. "
   end
 
