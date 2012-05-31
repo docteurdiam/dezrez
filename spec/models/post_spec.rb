@@ -22,13 +22,13 @@ describe Post do
     end
 
     it "saves the generated posts" do
-      Post.generate(@property, "http://localhost/diamondresidential/")
+      Post.generate([@property], "http://localhost/diamondresidential/")
       Post.where('post_type = ?', 'listing').count.should == 1
     end
 
     it "saves the associated postmeta" do
-      Post.generate(@property, "http://localhost/diamondresidential/")
-      Post.where('post_type = ?', 'listing').first.post_meta.count.should == 15
+      Post.generate([@property], "http://localhost/diamondresidential/")
+      Post.where('post_type = ?', 'listing').first.post_meta.count.should == 16
     end
 
   end
