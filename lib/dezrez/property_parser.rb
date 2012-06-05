@@ -21,8 +21,8 @@ class PropertyParser
       property.location = root.xpath('locationcodes').text
       property.display_address = root.xpath('useAddress').text
       property.summary = root.xpath('summaryDescription').text
-      property.sale = root['sale']
-      if property.sale == "true"
+      property.rentalperiod = root['sale']
+      if property.rentalperiod == "1"
         property.trans_type_id = 1
       else
         property.trans_type_id = 2

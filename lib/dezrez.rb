@@ -37,5 +37,6 @@ require 'dezrez/post'
 require 'dezrez/post_meta'
 require 'dezrez/feed'
 require 'dezrez/version'
-require 'dezrez/subscriber'
+require 'dezrez/subscriber_sales'
+require 'dezrez/subscriber_lettings'
 

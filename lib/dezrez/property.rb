@@ -18,7 +18,7 @@ class Property
   attr_accessor :photos
   attr_accessor :featured
   attr_accessor :postcode
-  attr_accessor :sale
+  attr_accessor :rentalperiod
   attr_accessor :trans_type_id
   
   def initialize
