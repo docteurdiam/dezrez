@@ -30,16 +30,13 @@ class App < Thor
   end
 
   desc "portals ENV", "Transfers the dezrez properties to Zoopla and FindAProperty"
-  def portals(env, type)
+  def portals(env)
     settings = configure(env)
     @logger.info(settings)
-    if type == "sales"
-      rentalperiod = 1
-    else
-      rentalperiod = 6
-    end
-    Portals.new(settings).push("zoopla", rentalperiod)
-    Portals.new(settings).push("findaproperty", rentalperiod)
+    Portals.new(settings).push("zoopla", 1)
+    Portals.new(settings).push("findaproperty", 1)
+    Portals.new(settings).push("zoopla", 6)
+    Portals.new(settings).push("findaproperty", 6)
   end
 
 end
