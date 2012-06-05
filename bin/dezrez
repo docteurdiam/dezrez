@@ -33,10 +33,10 @@ class App < Thor
   def portals(env)
     settings = configure(env)
     @logger.info(settings)
-    Portals.new(settings).push("zoopla", 1)
-    Portals.new(settings).push("findaproperty", 1)
     Portals.new(settings).push("zoopla", 6)
     Portals.new(settings).push("findaproperty", 6)
+    Portals.new(settings).push("zoopla", 1)
+    Portals.new(settings).push("findaproperty", 1)
   end
 
 end
