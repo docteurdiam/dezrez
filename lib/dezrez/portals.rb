@@ -10,8 +10,8 @@ class Portals
     @logger.add_appenders('stdout', 'logfile')
   end
 
-  def push(portal)
-    properties = Subscriber.new.pull(@config["image_directory"])
+  def push(portal, rentperiod)
+    properties = Subscriber.new.pull(@config["image_directory"], rentperiod)
     branch_id = @config["portals"][portal]["branch_id"]
     @logger.info("Creating the feed.")
     feed = Feed.new.build(properties, branch_id, portal)

@@ -21,7 +21,7 @@ class Post < ActiveRecord::Base
       post.save!
       post.reload
       post.associate_taxonomy(property.location, 'property_location')
-      post.associate_taxonomy('#{buyorrent(property.rentalperiod)}', 'property_buyorrent')
+      post.associate_taxonomy('#{buyorrent(property.trans_type_id)}', 'property_buyorrent')
       post.associate_price_range(property.price)
       property.photos.each do |photo|
           attachment = Post.new
@@ -105,7 +105,7 @@ class Post < ActiveRecord::Base
   
   
   def buyorrent(value)
-    if value == "0" || value == "1"
+    if value == "1"
       "Buy"
     else
       "Rent"
