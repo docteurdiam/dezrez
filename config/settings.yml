@@ -3,13 +3,13 @@ production:
   image_directory: /home/deployment/sites/diamondresidential/wp-content/uploads
   portals:
     zoopla:
-      username: diamond
-      password: tpFqD9qd56R7
+      username: xxxxxxxxxxx
+      password: xxxxxxxxxx
       branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
-      username: DiamondRes
-      password:  d94xfhj2
+      username: xxxxxxxxxxxxxxxx
+      password:  xxxxxxxxxxxxxx
       branch_id: 51272
       url: ftp.primelocation.com
 
@@ -18,12 +18,12 @@ development:
   image_directory: /tmp
   portals:
     zoopla:
-      username: diamond
-      password: tpFqD9qd56R7
+      username: xxxxxxxxxxxxxxxx
+      password: xxxxxxxxxxxxxxxxxxxx
       branch_id: 34134
       url: ftp.zoopla.com
     findaproperty:
-      username: DiamondRes
-      password: d94xfhj2
+      username: xxxxxxxxxxxxxxxxxxxx
+      password: xxxxxxxxxxxxxxxxxxx
       branch_id: 51272
       url: ftp.primelocation.com
